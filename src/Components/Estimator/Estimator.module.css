@@ -1,0 +1,101 @@
+@media only screen and (max-width: 800px) {
+  .container6img {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container6form {
+    width: 80% !important;
+  }
+}
+
+.container1 {
+  background-color: #e1f4f3;
+  min-height: 300px;
+  display: flex;
+}
+.container1text1 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+}
+.container1text2 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.container2text1 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 72px;
+  position: relative;
+}
+.titleImg {
+  position: absolute;
+  left: 0;
+  top: -20px;
+}
+.container2text2 {
+  color: #c7c7c7;
+}
+
+.container2text3 {
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  max-width: 60%;
+}
+
+.container5 {
+  background: rgba(225, 244, 243, 0.2);
+  width: 100%;
+}
+.container5Content {
+  width: 75%;
+  margin: auto;
+}
+.packageIText {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+  display: inline;
+  margin-left: 20px;
+}
+.container5Content1 {
+  margin-top: 30px;
+}
+
+.container6content {
+  background-color: #e8f5ff;
+  width: 100%;
+}
+.container6content1 {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0px 64px;
+}
+.container6img {
+  background-blend-mode: multiply;
+  mix-blend-mode: multiply;
+}
+.container6form {
+  width: 35%;
+}

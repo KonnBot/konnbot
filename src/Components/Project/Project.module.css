@@ -1,0 +1,57 @@
+.container1text1 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-weight: 500;
+  font-family: "Urbanist", sans-serif;
+  font-size: 32px;
+  line-height: 38px;
+  margin-bottom: 16px;
+}
+.container2text1 {
+  color: #444444;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.container2text2 {
+  color: #1b75bc;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.container2text3 {
+  color: #444444;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 32px;
+  font-weight: 300;
+}
+.container3text1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+}
+.container3text2 {
+  margin-left: 20px;
+  color: #444444;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 56px;
+  font-weight: 600;
+}
+.container3text3 {
+  color: #444444;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 300;
+}

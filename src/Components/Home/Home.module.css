@@ -1,0 +1,545 @@
+@media only screen and (max-width: 360px) {
+  .homeSteps {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container1ImgH {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container6IMG {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .carouselArrows {
+    width: 100% !important;
+  }
+  .container1 {
+    min-height: max-content !important;
+  }
+  .HomeImageText {
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    line-height: 16px !important;
+    width: 100% !important;
+  }
+  .HomeImageButtonText {
+    font-weight: 400;
+    font-size: 14px !important;
+    line-height: 14px !important;
+    margin-right: 10px !important;
+    padding: 0px !important;
+  }
+  .HomeImageButtonIcon {
+    font-size: 14px !important;
+  }
+  .HomeImageButton {
+    margin-top: 5% !important;
+  }
+  .HomeImageMainText {
+    top: 20% !important;
+  }
+}
+
+@media only screen and (max-width: 800px) and (min-width: 400px) {
+  .homeSteps {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container1ImgH {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container6IMG {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .carouselArrows {
+    width: 100% !important;
+  }
+  .container1 {
+    min-height: max-content !important;
+  }
+  .HomeImageText {
+    font-weight: 500;
+    font-size: 20px !important;
+    line-height: 20px !important;
+    width: 100% !important;
+  }
+  .HomeImageButtonText {
+    color: #0f0f0f;
+    font-family: "Urbanist", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px !important;
+    line-height: 16px !important;
+    margin-right: 10px !important;
+    padding: 0px !important;
+  }
+  .HomeImageButtonIcon {
+    font-size: 15px !important;
+  }
+  .HomeImageButton {
+    margin-top: 10% !important;
+  }
+  .HomeImageMainText {
+    top: 20% !important;
+  }
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 800px) {
+  .homeSteps {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container1ImgH {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container6IMG {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .carouselArrows {
+    width: 100% !important;
+  }
+  .container1 {
+    min-height: max-content !important;
+  }
+
+  .HomeImageText {
+    font-weight: 500;
+    font-size: 30px !important;
+    line-height: 26px !important;
+    width: 100% !important;
+  }
+  .HomeImageButtonText {
+    color: #0f0f0f;
+    font-family: "Urbanist", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px !important;
+    line-height: 16px !important;
+    margin-right: 10px !important;
+    padding: 5px !important;
+  }
+  .HomeImageButtonIcon {
+    font-size: 15px !important;
+  }
+  .HomeImageButton {
+    margin-top: 10% !important;
+  }
+  .HomeImageMainText {
+    top: 20% !important;
+  }
+}
+
+.HomeImageMain {
+  position: relative;
+}
+.HomeImageMainText {
+  position: absolute;
+  top: 25%;
+  left: 15%;
+}
+.HomeImageText {
+  background: rgba(0, 0, 0, 0.3);
+  color: #ffffff;
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 62px;
+  line-height: 85px;
+  display: flex;
+  width: 60%;
+  align-items: center;
+}
+.HomeImageButton {
+  margin-top: 10%;
+}
+.HomeImageButtonText {
+  padding: 10px;
+  width: 100%;
+  color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  margin-right: 16px;
+  padding: 10px;
+}
+.HomeImageText1 {
+  padding: 12px;
+}
+.HomeImage {
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 88.4%;
+  width: 100%;
+  filter: grayscale(0%);
+}
+.HomeImageButtonIcon {
+  font-size: 30px;
+}
+
+.homeTitle {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 64px;
+  line-height: 77px;
+  margin-bottom: 32px;
+  position: relative;
+}
+.titleImg {
+  position: absolute;
+  left: 0;
+  top: -42px;
+}
+.homeTitle1 {
+  color: #ffc000;
+}
+.homeTitle2 {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 600;
+}
+.homeTitle3 {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-size: 28px;
+  line-height: 28px;
+  font-weight: 300;
+}
+.homeTitleC {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 86px;
+  display: flex;
+  align-items: center;
+}
+.homeTitleC1 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  margin: 24px 0px;
+}
+.homeTitleC2 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.homeTitleC4 {
+  text-align: center;
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.homeTitleC5 {
+  text-align: center;
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 43px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 16px;
+}
+.homeTitleC6 {
+  font-family: "Urbanist", sans-serif;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 86px;
+}
+.homeTitleC7 {
+  font-family: "Urbanist", sans-serif;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+}
+.homeTitleC8 {
+  font-family: "Urbanist", sans-serif;
+  color: #444444;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  margin-top: 16px;
+}
+.homeSteps {
+  width: 60% !important;
+  margin: auto !important;
+}
+
+.cardButton {
+  width: 100%;
+  color: #595959;
+}
+.carouselContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 70%;
+  height: 100%;
+  /* background-color: blue; */
+  margin: 60px auto auto auto;
+}
+.carouselArrows {
+  position: absolute;
+  width: 50%;
+  left: 0;
+  right: 0;
+  top: 50%;
+  margin: auto;
+}
+.carouselImage {
+  margin-bottom: 32px;
+}
+.carouselImage1 {
+  width: 100%;
+}
+.carouselText {
+  color: #000000;
+  stroke: #000000;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 400;
+  text-align: center;
+  box-sizing: border-box;
+  width: 70%;
+}
+.textC1 {
+  color: #000000;
+  stroke: #000000;
+  font-family: "Urbanist", sans-serif;
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+.textN1 {
+  color: #000000;
+  stroke: #000000;
+  font-family: "Urbanist", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  display: block;
+}
+.textN2 {
+  display: block;
+  color: #000000;
+  stroke: #000000;
+  font-family: "Urbanist", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.container0 {
+  background-color: #d9eed8;
+}
+
+.container1 {
+  width: 80%;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  justify-items: end;
+  width: 100%;
+  min-height: 500px;
+  background-color: rgba(255, 192, 0, 0.1);
+}
+.container1Img {
+  width: 420px;
+  height: 460px;
+  margin: 20px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-blend-mode: multiply;
+  mix-blend-mode: multiply;
+}
+.container1text {
+  margin: 60px;
+  text-align: center;
+}
+.container1text1 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.container1text2 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.container2text1 {
+  color: #595959;
+  text-align: center;
+  font-family: "Urbanist", sans-serif;
+  font-size: 22px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+.container3cardtext {
+  width: 100%;
+  height: 200px;
+  align-items: center;
+  justify-content: center;
+  display: flex !important;
+  flex-direction: column;
+  border: 1px solid rgba(89, 89, 89, 0.1);
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.container3text1 {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 48px;
+  margin-top: 10px;
+}
+.container3text2 {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: 10px;
+}
+
+.container3button {
+  margin-top: 10px;
+}
+.container4 {
+  background-color: rgba(255, 192, 0, 0.1);
+  min-height: 500px;
+}
+.container4cardtext {
+  color: #444444;
+  text-align: center;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.container6 {
+  padding: 64px 0px;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.container6Img {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-blend-mode: multiply;
+  mix-blend-mode: multiply;
+  width: 100%;
+  float: right;
+}
+.container6text1 {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-size: 34px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.container6text2 {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.container8 {
+  background-color: rgba(255, 192, 0, 0.1);
+  min-height: 300px;
+}
+.cardComma {
+  position: absolute;
+  top: -18px;
+  left: -10px;
+}
+.cardComma1 {
+  position: absolute;
+  top: -4px;
+  left: -8px;
+}
+
+.referUs {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+}
+
+.referThankyou {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.referThankyoutext {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+}
+.referThankyoutext1 {
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+}
+.HomeBotstext {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 22px;
+}
+.HomeBotstext1 {
+  margin-top: 16px;
+}

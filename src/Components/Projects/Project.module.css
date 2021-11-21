@@ -1,0 +1,65 @@
+.container1 {
+  background-color: #e1f4f3;
+  min-height: 300px;
+  display: flex;
+}
+.container1text1 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+}
+.container1text2 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.container3 {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+.container3text1 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-weight: 700;
+  font-family: "Urbanist", sans-serif;
+  font-size: 64px;
+  line-height: 77px;
+  position: relative;
+}
+.titleImg {
+  position: absolute;
+  left: 0;
+  top: -42px;
+}
+.container3text2 {
+  color: #444444;
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.container4 {
+  background-color: #e1f4f3;
+  display: flex;
+  height: 200px;
+}
+
+.container4text2 {
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-top: 30px;
+}

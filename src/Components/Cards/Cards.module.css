@@ -1,0 +1,386 @@
+.FeatureCardImg {
+  width: 65px;
+  height: 65px;
+}
+
+.FeatureText {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  height: 40%;
+  margin: 32px 0 32px 0;
+}
+.FeatureText1 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  height: 40%;
+}
+.carttext1 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 29px;
+}
+.carttext2 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 400;
+}
+.carttext3 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.projectCardtext1 {
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  line-height: 19px;
+  font-weight: 700;
+}
+
+.projectCardtext2 {
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 300;
+  width: 100%;
+  margin-top: 8px;
+}
+.projectCardtext3 {
+  height: 24px;
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-size: 14px;
+  line-height: 17px;
+  font-weight: 700;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}
+.knownprojecttext1 {
+  text-align: center;
+}
+.knownprojecttext1 {
+  height: 40px;
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+
+  font-size: 16px;
+  font-weight: 600;
+}
+.knownprojecttext2 {
+  height: 40px;
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+
+  font-size: 12px;
+  font-weight: 300;
+  text-align: center;
+  width: 100%;
+  line-height: 18px;
+}
+.knownprojecttext3 {
+  height: 40px;
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+
+  font-size: 14px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.videoprojecttext1 {
+  height: 40px;
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+
+  font-size: 16px;
+  font-weight: 600;
+}
+.videoprojecttext2 {
+  height: 40px;
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+
+  font-size: 12px;
+  font-weight: 300;
+  width: 100%;
+  line-height: 18px;
+}
+.videoprojecttext3 {
+  height: 40px;
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+
+  font-size: 14px;
+  font-weight: 400;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: end;
+}
+.estimatortext1 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  height: 48px;
+  margin-top: 16px;
+}
+.estimatortext2 {
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  height: 80px;
+}
+.estimatortext3 {
+  background-color: #5bc559;
+  color: #ffffff;
+  padding: 4px;
+  border-radius: 8px;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  width: 40%;
+  margin: auto;
+}
+.container7text1 {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  mix-blend-mode: normal;
+}
+
+.container7text2 {
+  margin-top: 16px;
+  color: #595959;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  mix-blend-mode: normal;
+}
+.packageCardTitle {
+  color: #ffffff;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+}
+.packageCardtext {
+  width: 100%;
+}
+.packageCardtext1 {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+}
+.packageCardInner {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 400;
+  font-size: 12px;
+}
+.packageCardInner1 {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 400;
+  font-size: 12px;
+  float: right;
+  display: block;
+}
+.packageCardRateS {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 600;
+  font-size: 24px;
+  display: block;
+}
+.packageCardRate {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 300;
+  font-size: 24px;
+  display: block;
+}
+.packageCardBorderB {
+  border: 1px solid #1b75bc;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+.packageCardBorderT {
+  border: 1px solid #ffc000;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+.packageCardtext2 {
+  float: right;
+}
+
+.packageCardtext3 {
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.packageCardtext4 {
+  float: left;
+  color: #0f0f0f;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+.packageCardtext4Inner {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 12px;
+  text-align: start;
+}
+.packageCardtext5 {
+  float: right;
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+}
+.OffersCardText {
+  display: inline-block;
+  margin-left: 32px;
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+.sayaboutimg {
+  display: flex;
+  position: absolute;
+  top: -27%;
+  right: 1px;
+  width: 100%;
+  justify-content: center;
+}
+.sayaboutimg1 {
+  border-radius: 50%;
+}
+.sayabouttext1 {
+  color: #444444;
+  margin-top: 60px;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+}
+.sayabouttext2 {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  padding: 8px 0px 16px 0px;
+}
+
+.sayabouttext3 {
+  color: #444444;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+}
+
+.TeamCard {
+  text-align: center;
+}
+.TeamCardtext1 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #595959;
+}
+.TeamCardtext2 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #595959;
+}
+.KnowMoreCardText1 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #444444;
+}
+.KnowMoreCardText2 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #444444;
+}

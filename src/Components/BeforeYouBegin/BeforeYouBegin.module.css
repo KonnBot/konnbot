@@ -1,0 +1,144 @@
+@media only screen and (max-width: 800px) {
+  .container4img {
+    visibility: hidden;
+    display: none !important;
+    clear: both;
+  }
+  .container4form {
+    width: 80% !important;
+  }
+}
+
+.container {
+  position: relative;
+}
+.containerText1 {
+  padding: 0px;
+  left: 10%;
+  top: 35%;
+  background: rgba(255, 255, 255, 0.6);
+  position: absolute;
+  padding: 5px;
+}
+.titleImg {
+  position: absolute;
+  left: 0;
+  top: -42px;
+}
+
+.containerText2 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 72px;
+}
+.containerText3 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+}
+.mainImage {
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 88.4%;
+  width: 100%;
+  height: 430px;
+  filter: grayscale(0%);
+  margin-bottom: 60px;
+  object-fit: cover;
+}
+
+.text1 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  color: #444444;
+}
+
+.detailImage {
+  position: static;
+  width: 100%;
+  height: 1870px;
+}
+.container2 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #444444;
+  margin-bottom: 16px;
+}
+.calctext1 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+  position: relative;
+}
+.calctext2 {
+  color: #fcc000;
+}
+.calctext3 {
+  color: #444444;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.container2text3 {
+  color: #595959;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  max-width: 60%;
+}
+
+.container3text1 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+  color: #0f0f0f;
+}
+.container3text2 {
+  font-family: "Urbanist", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.container4content {
+  background-color: #e8f5ff;
+  width: 100%;
+}
+.container4content1 {
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0px 64px;
+}
+.container4img {
+  background-blend-mode: multiply;
+  mix-blend-mode: multiply;
+}
+.container4form {
+  width: 35%;
+}

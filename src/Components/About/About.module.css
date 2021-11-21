@@ -1,0 +1,46 @@
+.container1 {
+  background-color: #e1f4f3;
+  min-height: 300px;
+  display: flex;
+}
+.container1text1 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+}
+.container1text2 {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+.title {
+  color: #0f0f0f;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+  position: relative;
+}
+.titleImg {
+  position: absolute;
+  left: 0;
+  top: -42px;
+}
+.title1 {
+  color: #fcc000;
+}
+.title2 {
+  color: #444444;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}

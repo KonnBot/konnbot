@@ -1,0 +1,20 @@
+.formButton {
+  background-color: #ffc000 !important;
+}
+.formItems {
+  display: flex;
+  row-gap: 30px;
+}
+.formItems > .ant-form-item {
+  flex: 100% !important;
+}
+.formfloorText {
+  color: #444444;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

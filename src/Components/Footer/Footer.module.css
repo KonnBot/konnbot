@@ -1,0 +1,57 @@
+.footer {
+  background-color: #595959;
+}
+
+.logod {
+  width: max-content;
+  cursor: pointer;
+  margin-top: -15px;
+}
+.text1 {
+  color: #ffffff;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 36px;
+  margin-bottom: 24px;
+}
+.footerIcons {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  margin-bottom: 24px;
+}
+.text2 {
+  color: #ffffff;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+}
+.text3 {
+  color: #ffffff;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+}
+.text4 {
+  color: #ffffff;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 34px;
+  cursor: pointer;
+}
+.text5 {
+  color: #c7c7c7c7;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+}
