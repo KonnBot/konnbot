@@ -200,6 +200,17 @@ const ProjectTab = () => (
               cost="55.6 Lakh"
             />
           </Col>
+          <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
+            <ProjectCard
+              src="/assets/16project.png"
+              id={16}
+              name="Mr. Narendra Jain"
+              add="Lalghati, Bhopal"
+              area="3684 Sqft"
+              floor="G + 1"
+              cost="55.6 Lakh"
+            />
+          </Col>
         </Row>
       </div>
     </TabPane>
