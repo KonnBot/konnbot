@@ -39,17 +39,17 @@ const index = () => {
           <Step
             className="aboutSteps"
             title="Started"
-            description="This is a description. This is a description."
+            description="This is a description."
           />
           <Step
             className="aboutSteps"
             title="Web App Development"
-            description="This is a description. This is a description."
+            description="This is a description."
           />
           <Step
             className="aboutSteps"
             title="Mobile App Development"
-            description="This is a description. This is a description."
+            description="This is a description."
           />
           <Step
             className="aboutSteps"
@@ -86,8 +86,8 @@ const index = () => {
               What ever you can think in construction we are here to do that. If
               you have material supplier thats good or if you have well known
               contractor thats good than we can help out to manage quality and
-              maintenance of you construction project with the best way and
-              maximize your saving in the project.
+              maintenance of your construction project with the best way and
+              maximize your savings in the project.
             </div>
           </Col>
         </Row>
@@ -111,7 +111,7 @@ const index = () => {
               We are tech based construction managment system to manage all
               construction activities and resource management. We give the all
               control of project in your hand as you can choose the best
-              material, best rates form market and quality of material you want.
+              material, best rates from the market and quality of material you want.
             </div>
           </Col>
           <Col span={9}>
@@ -133,44 +133,65 @@ const index = () => {
         <Row justify="start" gutter={[30, 30]}>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
-              src="/assets/temcardskeleton.png"
+              src="/assets/15.png"
+              name="Priyanka Gayen"
+              role="Design Head"
+            />
+          </Col>
+          <Col span={12} sm={12} md={8} lg={6}>
+            <TeamCard
+              src="/assets/17.png"
+              name="Vinay Dhomne"
+              role="UI/UX Designer"
+            />
+          </Col>
+          <Col span={12} sm={12} md={8} lg={6}>
+            <TeamCard
+              src="/assets/13.png"
+              name="Ashish Yadav"
+              role="CRM"
+            />
+          </Col>
+          <Col span={12} sm={12} md={8} lg={6}>
+            <TeamCard
+              src="/assets/11.png"
               name="Nitin Sahu"
               role="CEO"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
-              src="/assets/temcardskeleton.png"
-              name="Nitin Sahu"
-              role="CEO"
+              src="/assets/12.png"
+              name="Kinshuk kujur"
+              role="UI/UX Head"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
-              src="/assets/temcardskeleton.png"
-              name="Nitin Sahu"
-              role="CEO"
+              src="/assets/14.png"
+              name="Harshit Sahu"
+              role="Supply chain manager"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
-              src="/assets/temcardskeleton.png"
-              name="Nitin Sahu"
-              role="CEO"
+              src="/assets/16.png"
+              name="Anshul Gautam"
+              role="Quality Manager"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
-              src="/assets/temcardskeleton.png"
-              name="Nitin Sahu"
-              role="CEO"
+              src="/assets/19.png"
+              name="Simran Dhiman"
+              role="Marketing Head"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
-              src="/assets/temcardskeleton.png"
-              name="Nitin Sahu"
-              role="CEO"
+              src="/assets/18.png"
+              name="Aditi Moulick"
+              role="Finance Head"
             />
           </Col>
         </Row>
