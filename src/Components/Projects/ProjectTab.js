@@ -15,7 +15,7 @@ const ProjectTab = () => (
         <Row justify="space-between" gutter={[20, 20]}>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/01project.png"
+              src="/assets/12project.png"
               id={1}
               name="Mr. Rajesh Yadav"
               add="Pardesipura,Indore"
@@ -26,7 +26,7 @@ const ProjectTab = () => (
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/02project.png"
+              src="/assets/13project.png"
               id={2}
               name="Mr. Vinay Pingle Residence"
               add="Andanva,Prayagraj"
@@ -50,53 +50,53 @@ const ProjectTab = () => (
             <ProjectCard
               src="/assets/04project.png"
               id={4}
-              name="Mr & Mrs Sahu"
-              add="Nayapura, Bhopal"
-              area="1200 Sqft"
-              floor="G"
-              cost="32.8 Lakh"
+              name="Mr. Rajesh Sahu"
+              add="Lalghati,Bhopal"
+              area="3,794 Sqft"
+              floor="G+2"
+              cost="54.2 Lakh"
             />
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/07project.png"
+              src="/assets/14project.png"
               id={7}
-              name="Grace Garden Housing"
-              add="BHEL, Bhopal"
-              area="1200 Sqft"
-              floor="G"
-              cost="32.8 Lakh"
+              name="Mr. Wadhvani Residence"
+              add="Bengali Square,Indore"
+              area="1750 Sqft"
+              floor="G+1"
+              cost="28.9 Lakh"
             />
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/08project.png"
+              src="/assets/15project.png"
               id={8}
+              name="Akshat Apartmen"
+              add="Ashoka Garden,Bhopal"
+              area="12,160 Sqft"
+              floor="G+4"
+              cost="158.42 Lakh"
+            />
+          </Col>
+          <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
+            <ProjectCard
+              src="/assets/01project.png"
+              id={9}
               name="Mr. Mahesh Sahu"
               add="Lalghati, Bhopal"
-              area="1200 Sqft"
-              floor="G"
-              cost="32.8 Lakh"
-            />
-          </Col>
-          <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
-            <ProjectCard
-              src="/assets/09project.png"
-              id={9}
-              name="Mr. Geeta Residence"
-              add="Lords Colony, Lalghati, Bhopal"
-              area="3554 Sqft"
+              area="3,550 Sqft"
               floor="G + 2"
-              cost="54.1 Lakh"
+              cost="57.6 Lakh"
             />
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/10project.png"
               id={10}
-              name="Mr. Akshat Kansal"
-              add="Bhawarkua, Indore"
-              area="2505 Sqft"
+              name="Mr. Praveen Villa"
+              add="RK Puram,Prayagraj"
+              area="2850 Sqft"
               floor="G + 1"
               cost="48.6 Lakh"
             />
@@ -105,66 +105,44 @@ const ProjectTab = () => (
             <ProjectCard
               src="/assets/11project.png"
               id={11}
-              name="Mr. Rajesh Yadav"
-              add="Prashantpura, Indore"
-              area="3152 Sqft"
+              name="Mrs Geeta Residence"
+              add="Lalghati,Bhopal"
+              area="3,554 Sqft"
               floor="G + 2"
-              cost="54.5 Lakh"
+              cost="54.10 Lakh"
             />
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/12project.png"
               id={12}
-              name="Mr. Priyansh Joshi Villa"
-              add="Naini, Prayagraj"
-              area="2854 Sqft"
+              name="Mr. Akshat Kanasal"
+              add="Bhawarkua,Indore"
+              area="2505 Sqft"
               floor="G + 1"
-              cost="64.7 Lakh"
+              cost="48.6 Lakh"
             />
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/13project.png"
+              src="/assets/04project.png"
               id={13}
-              name="Mr. Mahendra Sharma"
-              add="Teliarganj, Prayagraj"
-              area="3032 Sqft"
-              floor="G + 1"
-              cost="52.3 Lakh"
-            />
-          </Col>
-          <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
-            <ProjectCard
-              src="/assets/14project.png"
-              id={14}
-              name="Mr. Wadwani Residence"
-              add="Bengali Square, Indore"
-              area="1750 Sqft"
-              floor="G + 1"
-              cost="31.6 Lakh"
-            />
-          </Col>
-          <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
-            <ProjectCard
-              src="/assets/15project.png"
-              id={15}
-              name="Akshat Appartment"
-              add="Ashoka Garden, Bhopal"
-              area="12160 Sqft"
+              name="Mr & Mrs Sahu Residence"
+              add="Nayapura,Bhopal"
+              area="2700 Sqft"
               floor="G + 2"
-              cost="-- Lakh"
+              cost="40.10 Lakh"
             />
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/16project.png"
-              id={16}
-              name="Mr. Narendra Jain"
-              add="Lalghati, Bhopal"
-              area="3684 Sqft"
+              src="/assets/03project.png"
+              id={14}
+              name="Grace Garden Housing"
+              add="BHEL,Bhopal"
+              area="1200 Sqft"
               floor="G + 1"
-              cost="55.6 Lakh"
+              cost="66.20 Lakh"
             />
           </Col>
         </Row>
