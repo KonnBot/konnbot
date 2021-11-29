@@ -69,14 +69,14 @@ const Home = () => {
                 >
                   <div>
                     <div className={style.homeTitleC}>
-                      how are we tech based
+                      How are we tech based
                     </div>
                     <div className={style.homeTitleC1}>
                       Project Management Consultancy
                     </div>
                     <div className={style.homeTitleC2}>
-                      We give tech based solutions like estimate, project
-                      schedule, project management which are correct and
+                      We give tech based solutions like estimate, Project
+                      schedule, Project management which are correct and
                       accurate based on codes.
                     </div>
                   </div>
@@ -94,7 +94,7 @@ const Home = () => {
           <Col span={18}>
             <div style={{ width: "min-content", minWidth: "70%" }}>
               <div className={style.homeTitle}>
-                we can <span className={style.homeTitle1}> offer you</span>
+                We can <span className={style.homeTitle1}> offer you</span>
                 <span className={style.titleImg}>
                   <img alt="title" src="/assets/Title.png" />
                 </span>
@@ -139,14 +139,14 @@ const Home = () => {
               <Col span={24} sm={12} md={12} lg={8}>
                 <OffersCard
                   src="/assets/feature06.png"
-                  title="Space Arrangments"
+                  title="Space Arrangements"
                 />
               </Col>
             </Row>
           </Col>
           <Col span={18} style={{ textAlign: "center" }}>
             <div className={style.homeTitleC5}>
-              whatever you think comes under building construction we are here
+              Whatever you think comes under building construction we are here
               to help you
             </div>
             <div>
@@ -299,12 +299,12 @@ const Home = () => {
             >
               <Col span={18}>
                 <div className={style.homeTitle}>
-                  why cost in <br /> round off
+                  Why cost in <br /> round off
                 </div>
                 <div className={style.homeTitleC2}>
-                  If your budget of your home is 1,237 INR/sqft
+                  If your budget of your home is 1,237 INR/sqft,
                   <br />
-                  , then why it is given to you in round of 1,250INR/sqft.
+                  then why it is given to you in round of 1,250 INR/sqft.
                   <br />
                   Why it is not through the detailed estimate.
                   <br />
@@ -329,7 +329,7 @@ const Home = () => {
               <Col span={24} sm={12} md={8} lg={6}>
                 <ProjectCard
                   id="17"
-                  src="/assets/05project.png"
+                  src="/assets/01project.png"
                   name="Mr. Mahesh Sahu"
                   add="Lalghati, Bhopal"
                   area="3550 Sqft"
@@ -340,34 +340,34 @@ const Home = () => {
               <Col span={24} sm={12} md={8} lg={6}>
                 <ProjectCard
                   id="17"
-                  src="/assets/05project.png"
-                  name="Mr. Mahesh Sahu"
-                  add="Lalghati, Bhopal"
-                  area="3550 Sqft"
-                  floor="G + 2"
-                  cost="57.6 Lakh"
+                  src="/assets/02project.png"
+                  name="Mr. Vivek Singh"
+                  add="Akriti Retreat,Rohit Nagar,Bhopal"
+                  area="3694 Sqft"
+                  floor="G + 1"
+                  cost="51.5 Lakh"
                 />
               </Col>
               <Col span={24} sm={12} md={8} lg={6}>
                 <ProjectCard
                   id="17"
-                  src="/assets/05project.png"
-                  name="Mr. Mahesh Sahu"
-                  add="Lalghati, Bhopal"
-                  area="3550 Sqft"
-                  floor="G + 2"
-                  cost="57.6 Lakh"
+                  src="/assets/04project.png"
+                  name="Mr & Mrs Sahu"
+                  add="Nayapura,Bhopal"
+                  area="1200 Sqft"
+                  floor="G"
+                  cost="32.8 Lakh"
                 />
               </Col>
               <Col span={24} sm={12} md={8} lg={6}>
                 <ProjectCard
                   id="17"
-                  src="/assets/05project.png"
-                  name="Mr. Mahesh Sahu"
-                  add="Lalghati, Bhopal"
-                  area="3550 Sqft"
-                  floor="G + 2"
-                  cost="57.6 Lakh"
+                  src="/assets/14project.png"
+                  name="Mr. Wadhvani Residence"
+                  add="Bengali Square,Indore"
+                  area="1750 Sqft"
+                  floor="G + 1"
+                  cost="28.9 Lakh"
                 />
               </Col>
             </Row>
@@ -453,7 +453,7 @@ const Home = () => {
                     <Col span={24} sm={12} md={12} lg={12} xl={6}>
                       <SayAboutCard
                         src="/assets/19_HomePage.png"
-                        name="Prashant Tripathi"
+                        name="Mr. Prashant Tripathi"
                         proff="Client"
                         text="Konnbot has delivered what they had promised. Thank you for being there for us. I would recommend them to everyone"
                       />
@@ -461,23 +461,23 @@ const Home = () => {
                     <Col span={24} sm={12} md={12} lg={12} xl={6}>
                       <SayAboutCard
                         src="/assets/20_HomePage.png"
-                        name="Prashant Tripathi"
+                        name="Mr. Vivek Singh"
                         proff="Client"
                         text="They were very enthusiastic from day one. In terms of transparency and quality. It’s a complete team for your project from designing to handing over."
                       />
                     </Col>
                     <Col span={24} sm={12} md={12} lg={12} xl={6}>
                       <SayAboutCard
-                        src="/assets/21_HomePage.png"
-                        name="Prashant Tripathi"
-                        proff="Client"
+                        src="/assets/21.png"
+                        name="Mr. Asfaque Khan"
+                        proff="Contractor"
                         text="They were absolutely great! They met their project dates and were so organised throughout the project. Looking to work with them in the future."
                       />
                     </Col>
                     <Col span={24} sm={12} md={12} lg={12} xl={6}>
                       <SayAboutCard
-                        src="/assets/21_HomePage.png"
-                        name="Prashant Tripathi"
+                        src="/assets/20.png"
+                        name="Mr. Anshul Sahu"
                         proff="Client"
                         text="Konnbot is one of the most incredible working team we've worked with. The whole group tactfully delivered a project of exceptional quality while staying on schedule and under budget"
                       />
