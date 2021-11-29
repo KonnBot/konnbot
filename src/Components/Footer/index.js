@@ -133,12 +133,12 @@ const Footer = () => {
         </Col>
         <Col span={8}>
           <div className={style.text5}>
-            copyright © 2020-21 KONNBOT Private Limited
+            Copyright © 2020-21 KONNBOT Private Limited.All rights reserved.
           </div>
         </Col>
         <Col span={14}>
           <div className={style.text5}>
-            privacy policy | terms and conditions
+            Privacy Policy | Terms and Conditions
           </div>
         </Col>
       </Row>
