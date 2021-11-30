@@ -329,17 +329,6 @@ const Home = () => {
               <Col span={24} sm={12} md={8} lg={6}>
                 <ProjectCard
                   id="17"
-                  src="/assets/01project.png"
-                  name="Mr. Mahesh Sahu"
-                  add="Lalghati, Bhopal"
-                  area="3550 Sqft"
-                  floor="G + 2"
-                  cost="57.6 Lakh"
-                />
-              </Col>
-              <Col span={24} sm={12} md={8} lg={6}>
-                <ProjectCard
-                  id="17"
                   src="/assets/02project.png"
                   name="Mr. Vivek Singh"
                   add="Akriti Retreat,Rohit Nagar,Bhopal"
@@ -351,12 +340,23 @@ const Home = () => {
               <Col span={24} sm={12} md={8} lg={6}>
                 <ProjectCard
                   id="17"
-                  src="/assets/04project.png"
-                  name="Mr & Mrs Sahu"
-                  add="Nayapura,Bhopal"
-                  area="1200 Sqft"
-                  floor="G"
-                  cost="32.8 Lakh"
+                  src="/assets/Lalghati.png"
+                  name="Mr. Rajesh Sahu"
+                  add="Lalghati,Bhopal"
+                  area="3794 Sqft"
+                  floor="G + 2"
+                  cost="54.28 Lakh"
+                />
+              </Col>
+              <Col span={24} sm={12} md={8} lg={6}>
+                <ProjectCard
+                  id="17"
+                  src="/assets/10project.png"
+                  name="Mr Akshat kanasal"
+                  add="Bhawarkua,Indore"
+                  area="2505 Sqft"
+                  floor="G+1"
+                  cost="48.6 Lakh"
                 />
               </Col>
               <Col span={24} sm={12} md={8} lg={6}>

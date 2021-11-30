@@ -34,7 +34,7 @@ const index = ({ calcData, setCalcData }) => {
           <Col span={24} sm={24} md={12} lg={6}>
             <EstimatorFeatures
               title="Plot Selection"
-              text="Here you can save money by selection of plot area, where and when are you buying."
+              text="Plot width irregular size,services land cost & development analysis"
               discount="20%"
               src="/assets/EstimatorF01.png"
               background="#FFFBF1"
@@ -43,7 +43,7 @@ const index = ({ calcData, setCalcData }) => {
           <Col span={24} sm={24} md={12} lg={6}>
             <EstimatorFeatures
               title="Design & Approval"
-              text="Here you can not save more money. It has fix rate in market."
+              text="Design as per cost analysis, no additional approval cost."
               discount="1-2%"
               src="/assets/EstimatorF02.png"
               background="#F3FFF2"
@@ -52,7 +52,7 @@ const index = ({ calcData, setCalcData }) => {
           <Col span={24} sm={24} md={12} lg={6}>
             <EstimatorFeatures
               title="Contractor"
-              text="Technology integrated Construction helps us to provide you various facilities in single platform"
+              text="Everyone is working for profit,either its your known or relative"
               discount="15%"
               src="/assets/EstimatorF03.png"
               background="#FFEFEF"
@@ -61,7 +61,7 @@ const index = ({ calcData, setCalcData }) => {
           <Col span={24} sm={24} md={12} lg={6}>
             <EstimatorFeatures
               title="Material Selection"
-              text="Technology integrated Construction helps us to provide you various facilities in single platform"
+              text="50% of the project cost depends on material."
               discount="20%"
               src="/assets/EstimatorF04.png"
               background="#FBF4FF"
@@ -69,8 +69,8 @@ const index = ({ calcData, setCalcData }) => {
           </Col>
           <Col span={24} sm={24} md={12} lg={6}>
             <EstimatorFeatures
-              title="Maintanence"
-              text="Technology integrated Construction, Help us to provide you various facilities in single platform"
+              title="Maintenance"
+              text="15 years Warranty on Structure & Service helps to reduce maintenance cost."
               discount="20%"
               src="/assets/EstimatorF05.png"
               background="#FDFFF2"
@@ -79,7 +79,7 @@ const index = ({ calcData, setCalcData }) => {
           <Col span={24} sm={24} md={12} lg={6}>
             <EstimatorFeatures
               title="Interior Design"
-              text="Technology integrated Construction, Help us to provide you various facilities in single platform"
+              text="Integrating Interior from intial stage lowers the interior cost of you project."
               discount="20%"
               src="/assets/EstimatorF06.png"
               background="#EDFFF7"
@@ -87,17 +87,17 @@ const index = ({ calcData, setCalcData }) => {
           </Col>
           <Col span={24} sm={24} md={12} lg={6}>
             <EstimatorFeatures
-              title="Finishes"
-              text="Technology integrated Construction, Help us to provide you various facilities in single platform"
+              title="Thermal analysis"
+              text="Insultating layers will reduce the buiding heating & cooling load reduction in bill"
               discount="20%"
               src="/assets/EstimatorF07.png"
               background="#F3F0FF"
             />
           </Col>
-          <Col span={24} sm={24} md={12} lg={6}>
+          <Col span={20} sm={24} md={12} lg={6}>
             <EstimatorFeatures
               title="Quality of Construction"
-              text="Technology integrated Construction, Help us to provide you various facilities in single platform"
+              text="If you know the technology & techniques we can give you better quality"
               discount="20%"
               src="/assets/EstimatorF08.png"
               background="#F1F9FF"

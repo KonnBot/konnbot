@@ -37,7 +37,7 @@ export default function index() {
           src="/assets/knowmore01.png"
           flex="row-reverse"
           title="256 + Quality checks"
-          text="+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ promise you the best quality construction services. It ensure that the you always get the best quality material and workmanship under your budget. To ensure that we have more than 256 quality checks spaecily designed by experts of industry. It starts from soil test to delivery of finishes of your home before handing over to you. We have the RCC tests, Bar tests, Sprit level checked flooring etc. we will hand over the detail report of projects to you when the project get completed."
+          text="We promise you the best quality construction services. It ensure that the you always get the best quality material and workmanship under your budget. To ensure that we have more than 256 quality checks specially designed by experts of industry. It starts from soil test to delivery of finishes of your home before handing over to you. We have the RCC tests, Bar tests, Spirit level checked flooring etc. We will hand over the detailed report of projects to you when the project gets completed."
         />
       </Col>
       <Col span={18}>
@@ -45,7 +45,7 @@ export default function index() {
           src="/assets/knowmore02.png"
           flex="row"
           title="Documents & analytics"
-          text="we take care of all legel and permission process for your buillding construction. we take care of all documents and file at single platform. It give you the hessle free communication betweek all vendors, architect and structure drawings. "
+          text="We take care of all legal and permission processes for your building construction. We take care of all documents and file at single platform. It gives you the hassle free communication betweek all vendors, architectural and structural drawings. "
         />
       </Col>
       <Col span={18}>
@@ -53,8 +53,8 @@ export default function index() {
           src="/assets/knowmore03.png"
           flex="row-reverse"
           title="100% Track of project"
-          text="We provide you the best solution for the construction of your home with 100% transperacy in all the things which will be conducted on site. 
-            we give the tech based project traking solution for the work, material and project schedule. before project start we will give you the all detils about the project  "
+          text="We provide you the best solution for the construction of your home with 100% transparancy in all the things which will be conducted on site. 
+            We give the tech based project tracking solution for the work, material and project schedule. Before project starts we will give you the all details about the project  "
         />
       </Col>
       <Col span={18}>
@@ -62,7 +62,7 @@ export default function index() {
           src="/assets/knowmore04.png"
           flex="row"
           title="23+ Contractors "
-          text="we take care of all legel and permission process for your buillding construction. we take care of all documents and file at single platform. It give you the hessle free communication betweek all vendors, architect and structure drawings. "
+          text="We take care of all legal and permission processes for your building construction. We take care of all documents and file at single platform. It gives you the hassle free communication betweek all vendors, architectural and structural drawings. "
         />
       </Col>
       <Col span={18}>
@@ -70,7 +70,7 @@ export default function index() {
           src="/assets/knowmore05.png"
           flex="row-reverse"
           title="15 years Warranty"
-          text="You many not herd about the warranty in construction project. here we are always with you for your construction projct during the construction and after 15 years of construction. we give you the 15 years of warrenty on structure. to make sure your home is built safe and durable. "
+          text="You many have not heard about the warranty in construction project. Here we are always with you for your construction project during the construction and after 15 years of construction. We give you the 15 years of warranty on structure to make sure your home is built safe and durable. "
         />
       </Col>
       <Col span={18}>
@@ -78,14 +78,14 @@ export default function index() {
           src="/assets/knowmore06.png"
           flex="row"
           title="Daily Updates"
-          text="Quality control and safety represent increasingly important concerns for project managers. Defects or failures in constructed facilities can result in very large costs. Even with minor defects, re-construction may be required and facility operations impaired. Increased costs and delays are the result. In the worst case, failures may cause personal injuries or fatalities. Accidents during the construction process can similarly result in personal injuries and large costs. Indirect costs of insurance, inspection and regulation are increasing rapidly due to these increased direct costs. Good project managers try to ensure that the job is done right the first time and that no major accidents occur on the project."
+          text="Quality control and safety represents increasingly important concerns for Project managers. Defects or failures in constructed facilities can result in very large costs. Even with minor defects, re-construction may be required and facility operations impaired. Increased costs and delays are the result. In the worst case, failures may cause personal injuries or fatalities. Accidents during the construction process can similarly result in personal injuries and large costs. Indirect costs of insurance, inspection and regulation are increasing rapidly due to these increased direct costs. Competent project managers try to ensure that the job is done right the first time and that no major accidents occur on the project."
         />
       </Col>
       <Col span={18}>
         <KnowMoreCard
           src="/assets/knowmore07.png"
           flex="row-reverse"
-          title="Budget in 15 Min."
+          title="Budget in 5 Min."
           text="Quality control and safety represent increasingly important concerns for project managers. Defects or failures in constructed facilities can result in very large costs. Even with minor defects, re-construction may be required and facility operations impaired. Increased costs and delays are the result. In the worst case, failures may cause personal injuries or fatalities. Accidents during the construction process can similarly result in personal injuries and large costs. Indirect costs of insurance, inspection and regulation are increasing rapidly due to these increased direct costs. Good project managers try to ensure that the job is done right the first time and that no major accidents occur on the project."
         />
       </Col>
@@ -105,10 +105,10 @@ export default function index() {
           </span>
         </div>
         <div className={style.container3text2}>
-          Technology integrated Construction, Help us to provide you various
+          Technology integrated Construction helps us to provide you various
           facilities in single platform
           <br />
-          connects among Stakeholder & Client to built strong relation
+          ,connect among Stakeholder & Client to built strong relation
         </div>
       </Col>
       <Col span={24}>

@@ -10,12 +10,12 @@ export default function VideoProjectCard() {
           title="video"
           width="420"
           height="315"
-          src="https://www.youtube.com/embed/tgbNymZ7vqY"
+          src="https://youtu.be/k7vAqPTVKjY"
         ></iframe>
       }
       bodyStyle={{ padding: "10px" }}
     >
-      <div className={style.videoprojecttext1}>Mr. Vivek Singh Bunglow</div>
+      <div className={style.videoprojecttext1}>Mr. Rajesh Sahu Residence</div>
       <div className={style.videoprojecttext2}>
         Technology integrated Construction, Help us to provide you various
         facilities in single.

@@ -39,27 +39,31 @@ const index = () => {
           <Step
             className="aboutSteps"
             title="Started"
-            description="This is a description."
+            description="It’s all being in COVID-19 Pandemic that we started as Architecture Consultancy in Bhopal, Prayagraj. In the starting we are getting architectural projects but the problem become is as usual the miscommunication and we can’t be there every-time to explain the contractor & labor to do what. No updates of what is going on, calling us whenever they want. It happens with all the 6 projects which are going on, either you accept what is going on or you want to implement with the best techniques and coordinate in the best manner, where project don’t get delays due to unnecessary issues & mismanagement. Conclude to stop architecture consultancy which doesn’t allow us to practice the manner we want."
           />
           <Step
             className="aboutSteps"
-            title="Web App Development"
-            description="This is a description."
+            title="Why we need software in Construction"
+            description="Personally, I want to pursue construction management from HFT Stuttgart (IPM) after getting selected waiting for winter semester, sitting at home thinking to see what the future in management & other parameters. All the major projects & KPGM reports, saying that we need tech enabled process to create better system for betterment of Construction management. 
+            Concluding to start the making software for lower scale of projects in India for the clients who has the dream to build the home in life, but the system through which they have to go through is very tensive experience due to which they have to stop and buying the flat, where again the builders flat do not satisfy them.
+            "
           />
           <Step
             className="aboutSteps"
-            title="Mobile App Development"
-            description="This is a description."
+            title="KONNBOT - Construction Management Consultancy "
+            description="KONNBOT as a company started the construction management consultancy in Bhopal, Indore & Prayagraj to start our journey in Central India. Our experience center to help you explain about the construction & techniques of working."
           />
           <Step
             className="aboutSteps"
-            title="Project Managment Consultancy"
-            description="This is a description."
+            title="KONNBOT CMS - Upcoming "
+            description="We are working on pre-cast concrete for lower scale up to G +4 projects plant in Indore. Currently in contact with the CSIR labs in CBRI Roorkee, AMPRI Bhopal & SERC Chennai & other industry experts for thermal efficient home in India. "
           />
           <Step
             className="aboutSteps"
-            title="A lot more to do "
-            description="This is a description."
+            title="A lot to come "
+            description="Project Management Software for large scale projects is on development stage
+
+            "
           />
         </Steps>
       </Col>
