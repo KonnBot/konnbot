@@ -6,6 +6,7 @@
   background-color: #f8f8f8;
   border-radius: 16px;
   align-items: center;
+  margin: auto;
 }
 .minus {
   position: absolute;
@@ -43,4 +44,12 @@
   font-weight: 600;
   font-size: 24px;
   line-height: 29px;
+}
+.packageName {
+  color: #1b75bc;
+  font-style: normal;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 34px;
 }
