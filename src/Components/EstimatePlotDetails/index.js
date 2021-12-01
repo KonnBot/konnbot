@@ -4,10 +4,65 @@ import style from "./EstimatePlotDetails.module.css";
 import Calc from "../Forms/Calc";
 import ContactUs from "../Forms/ContactUs";
 import PackageCard from "../Cards/PackageCard";
-import CustomizePackage from "../CustomizePackage";
+import CustomizePackage from "../CustomizePackage/Custom";
 const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
   const [plotDetails, setPlotDetails] = useState({});
-
+  const [finalCustomizeCost, setFinalCustomizeCost] = useState({
+    basic: {
+      civilWork: "",
+      flooring: "",
+      doorWindows: "",
+      finishes: "",
+      sanitryPlumbing: "",
+      electricalWork: "",
+      elevation: "",
+    },
+    standard: {
+      civilWork: "",
+      flooring: "",
+      doorWindows: "",
+      finishes: "",
+      sanitryPlumbing: "",
+      electricalWork: "",
+      elevation: "",
+    },
+    classic: {
+      civilWork: "",
+      flooring: "",
+      doorWindows: "",
+      finishes: "",
+      sanitryPlumbing: "",
+      electricalWork: "",
+      elevation: "",
+    },
+    supreme: {
+      civilWork: "",
+      flooring: "",
+      doorWindows: "",
+      finishes: "",
+      sanitryPlumbing: "",
+      electricalWork: "",
+      elevation: "",
+    },
+    premium: {
+      civilWork: "",
+      flooring: "",
+      doorWindows: "",
+      finishes: "",
+      sanitryPlumbing: "",
+      electricalWork: "",
+      elevation: "",
+    },
+    platinum: {
+      civilWork: "",
+      flooring: "",
+      doorWindows: "",
+      finishes: "",
+      sanitryPlumbing: "",
+      electricalWork: "",
+      elevation: "",
+    },
+  });
   useEffect(() => {
     var persistData = JSON.parse(localStorage.getItem("calcData"));
     console.log("calcData1", calcData);
@@ -154,10 +209,69 @@ const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
       },
     };
     console.log("payload", payload);
-    setPlotDetails(payload);
-  }, [calcData]);
 
-  console.log("calcData", plotDetails);
+    const customizePayload = {
+      civilWork: TOAcP1 * (62.5 / 100),
+      flooring: TOAcP1 * (12.25 / 100),
+      doorWindows: TOAcP1 * (5.0 / 100),
+      finishes: TOAcP1 * (5.25 / 100),
+      sanitryPlumbing: TOAcP1 * (8.5 / 100),
+      electricalWork: TOAcP1 * (5.5 / 100),
+      elevation: TOAcP1 * (1.0 / 100),
+    };
+
+    setFinalCustomizeCost({
+      basic: customizePayload,
+      standard: {
+        civilWork: customizePayload.civilWork * 1.072167,
+        flooring: customizePayload.flooring * 1.072167,
+        doorWindows: customizePayload.doorWindows * 1.072167,
+        finishes: customizePayload.finishes * 1.072167,
+        sanitryPlumbing: customizePayload.sanitryPlumbing * 1.072167,
+        electricalWork: customizePayload.electricalWork * 1.072167,
+        elevation: customizePayload.elevation * 1.072167,
+      },
+      classic: {
+        civilWork: customizePayload.civilWork * 1.163903,
+        flooring: customizePayload.flooring * 1.163903,
+        doorWindows: customizePayload.doorWindows * 1.163903,
+        finishes: customizePayload.finishes * 1.163903,
+        sanitryPlumbing: customizePayload.sanitryPlumbing * 1.163903,
+        electricalWork: customizePayload.electricalWork * 1.163903,
+        elevation: customizePayload.elevation * 1.163903,
+      },
+      supreme: {
+        civilWork: customizePayload.civilWork * 1.253267,
+        flooring: customizePayload.flooring * 1.253267,
+        doorWindows: customizePayload.doorWindows * 1.253267,
+        finishes: customizePayload.finishes * 1.253267,
+        sanitryPlumbing: customizePayload.sanitryPlumbing * 1.253267,
+        electricalWork: customizePayload.electricalWork * 1.253267,
+        elevation: customizePayload.elevation * 1.253267,
+      },
+      premium: {
+        civilWork: customizePayload.civilWork * 1.338372,
+        flooring: customizePayload.flooring * 1.338372,
+        doorWindows: customizePayload.doorWindows * 1.338372,
+        finishes: customizePayload.finishes * 1.338372,
+        sanitryPlumbing: customizePayload.sanitryPlumbing * 1.338372,
+        electricalWork: customizePayload.electricalWork * 1.338372,
+        elevation: customizePayload.elevation * 1.338372,
+      },
+      platinum: {
+        civilWork: customizePayload.civilWork * 1.417297,
+        flooring: customizePayload.flooring * 1.417297,
+        doorWindows: customizePayload.doorWindows * 1.417297,
+        finishes: customizePayload.finishes * 1.417297,
+        sanitryPlumbing: customizePayload.sanitryPlumbing * 1.417297,
+        electricalWork: customizePayload.electricalWork * 1.417297,
+        elevation: customizePayload.elevation * 1.417297,
+      },
+    });
+    setPlotDetails(payload);
+  }, [calcData, setFinalCustomizeCost]);
+
+  console.log("final", finalCustomizeCost);
   return (
     <Row justify="center" gutter={[0, 60]}>
       <Col span={9}>
@@ -404,7 +518,7 @@ const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
               Client to built strong relation
             </div>
             <div style={{ marginTop: "16px" }}>
-              <CustomizePackage />
+              <CustomizePackage finalCustomizeCost={finalCustomizeCost} />
             </div>
           </Col>
         </Row>
