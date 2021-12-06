@@ -137,58 +137,58 @@ const index = () => {
         <Row justify="start" gutter={[30, 30]}>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
+              src="/assets/11.png"
+              name="Nitin Sahu"
+              role="Project Manager,Ex-CBRI JRF"
+            />
+          </Col>
+          <Col span={12} sm={12} md={8} lg={6}>
+            <TeamCard
               src="/assets/15.png"
               name="Priyanka Gayen"
-              role="Design Head"
+              role="Design Head,PhD"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
               src="/assets/17.png"
-              name="Vinay Dhomne"
-              role="UI/UX Designer"
+              name="Ar.Vinay Dhomne"
+              role="Ex FDG,UI/UX Designer"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
               src="/assets/13.png"
-              name="Ashish Yadav"
-              role="CRM"
-            />
-          </Col>
-          <Col span={12} sm={12} md={8} lg={6}>
-            <TeamCard
-              src="/assets/11.png"
-              name="Nitin Sahu"
-              role="CEO"
-            />
-          </Col>
-          <Col span={12} sm={12} md={8} lg={6}>
-            <TeamCard
-              src="/assets/12.png"
-              name="Kinshuk kujur"
-              role="UI/UX Head"
-            />
-          </Col>
-          <Col span={12} sm={12} md={8} lg={6}>
-            <TeamCard
-              src="/assets/14.png"
-              name="Harshit Sahu"
-              role="Supply chain manager"
+              name="Ar. Ashish Yadav"
+              role="Ex Creative Group,CRM"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
               src="/assets/16.png"
-              name="Anshul Gautam"
+              name="Er. Anshul Gautam"
               role="Quality Manager"
+            />
+          </Col>
+          <Col span={12} sm={12} md={8} lg={6}>
+            <TeamCard
+              src="/assets/14.png"
+              name="Mr.Harshit Sahu"
+              role="Supply chain manager"
+            />
+          </Col>
+          <Col span={12} sm={12} md={8} lg={6}>
+            <TeamCard
+              src="/assets/12.png"
+              name="Kinshuk Kujur"
+              role="UI/UX Head,IIT Delhi"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>
             <TeamCard
               src="/assets/19.png"
               name="Simran Dhiman"
-              role="Marketing Head"
+              role="Marketing Head,IIT Delhi"
             />
           </Col>
           <Col span={12} sm={12} md={8} lg={6}>

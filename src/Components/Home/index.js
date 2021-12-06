@@ -340,7 +340,7 @@ const Home = () => {
               <Col span={24} sm={12} md={8} lg={6}>
                 <ProjectCard
                   id="17"
-                  src="/assets/Lalghati.png"
+                  src="/assets/Aashu.png"
                   name="Mr. Rajesh Sahu"
                   add="Lalghati,Bhopal"
                   area="3794 Sqft"

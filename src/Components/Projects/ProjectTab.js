@@ -37,7 +37,7 @@ const ProjectTab = () => (
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/03project.png"
+              src="/assets/Priyansh.png"
               id={3}
               name="Priyansh Joshi's House"
               add="Naini Prayagraj"
@@ -48,7 +48,7 @@ const ProjectTab = () => (
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/04project.png"
+              src="/assets/Aashu.png"
               id={4}
               name="Mr. Rajesh Sahu"
               add="Lalghati,Bhopal"
@@ -92,7 +92,7 @@ const ProjectTab = () => (
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/10project.png"
+              src="/assets/Praveen.png"
               id={10}
               name="Mr. Praveen Villa"
               add="RK Puram,Prayagraj"
@@ -103,7 +103,7 @@ const ProjectTab = () => (
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/11project.png"
+              src="/assets/Geeta.png"
               id={11}
               name="Mrs Geeta Residence"
               add="Lalghati,Bhopal"
@@ -114,7 +114,7 @@ const ProjectTab = () => (
           </Col>
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
-              src="/assets/12project.png"
+              src="/assets/11project.png"
               id={12}
               name="Mr. Akshat Kanasal"
               add="Bhawarkua,Indore"
