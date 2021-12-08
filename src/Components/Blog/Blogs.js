@@ -27,6 +27,7 @@ export const Blogs = [
     
     There are a number of different broad models, which would continue to be the case for more than a century after the Gupta period, but temples such as Tigawa and Sanchi Temple 17, which are small but massively built stone prostyle buildings with a sanctuary and a columned porch, show the most common basic plan that continues today. Both of these have flat roofs over the sanctuary, which would become uncommon by about the 8th century. The Mahabodhi Temple, Bhitargaon, Deogarh and Gop already all show high superstructures of different shapes.[28] The Chejarla Kapoteswara temple demonstrates that free-standing chaitya-hall temples with barrel roofs continued to be built, probably with many smaller examples in wood.[29]`,
   },
+
   {
     title:
       "Carpet Area ,Built up Area and Super Built Area",
@@ -47,6 +48,7 @@ Super built-up area is the built-up area in addition to common/open area like lo
 Super-Built-up Area is calculated as: 
 Super Built-up Area = Built-up Area + Common Share Area `,
   },
+
   {
     title:
       "Floor Area Ratio and Floor Space Index",

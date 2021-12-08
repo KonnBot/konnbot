@@ -5,6 +5,7 @@ import Calc from "../Forms/Calc";
 import ContactUs from "../Forms/ContactUs";
 import PackageCard from "../Cards/PackageCard";
 import CustomizePackage from "../CustomizePackage/Custom";
+import ComparePackage from "../ComparePackage";
 const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
   const [plotDetails, setPlotDetails] = useState({});
   const [finalCustomizeCost, setFinalCustomizeCost] = useState({
@@ -507,7 +508,7 @@ const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
         <Row justify="center" style={{ padding: "64px 0px 64px 0px" }}>
           <Col span={18}>
             <div className={style.text4}>
-              Create a<span className={style.text5}> Customize Package</span>
+              Create a<span className={style.text5}> Compare Packages</span>
               <span className={style.titleImg}>
                 <img alt="title" src="/assets/Title.png" />
               </span>
@@ -519,6 +520,21 @@ const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
             </div>
             <div style={{ marginTop: "16px" }}>
               <CustomizePackage finalCustomizeCost={finalCustomizeCost} />
+            </div>
+          </Col>
+        </Row>
+      </Col>
+      <Col span={24}>
+        <Row justify="center" style={{ padding: "0px 0px 64px 0px" }}>
+          <Col span={18}>
+            <div className={style.text4}>
+              Compare Packages
+              <span className={style.titleImg}>
+                <img alt="title" src="/assets/Title.png" />
+              </span>
+            </div>
+            <div style={{ marginTop: "16px" }}>
+              <ComparePackage finalCustomizeCost={finalCustomizeCost} />
             </div>
           </Col>
         </Row>
