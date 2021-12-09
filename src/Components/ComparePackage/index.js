@@ -15,66 +15,80 @@ const index = () => {
           <Table
             p1={
               <>
-                Basic Elevation
+                Architectural Plan
                 <br />
-                Structural Design
+                Section and Elevation
+                <br />
+                Structural Drawings
               </>
             }
             p2={
               <>
-                3D Elevation
+                Architectural Plan
                 <br />
-                Structural Design
+                Section and Elevation
+                <br />
+                Structural drawings
+                <br />
+                3D Elevation
               </>
             }
             p3={
               <>
-                3D Elevation
+                Architectural plan
                 <br />
-                Structural Design
+                Section and Elevation
+                <br />
+                Structural Drawings
+                <br />
+                3D elevation
                 <br />
                 Electrical Drawings
                 <br />
                 Plumbing Drawings
-                <br />
-                Furniture Plan
               </>
             }
             p4={
               <>
+                Architectural plan
+                <br />
+                Section and Elevation
+                <br />
                 3D Elevation
                 <br />
-                Structural Design
-                <br />
-                Electrical Drawings
+                Electrical Drawings 
                 <br />
                 Plumbing Drawings
-                <br />
-                Furniture Plan
               </>
             }
             p5={
               <>
-                3D Elevation
+                Architectural plan
                 <br />
-                Structural Design
+                Section and Elevation
+                <br />
+                3D Elevation
                 <br />
                 Electrical Drawings
                 <br />
                 Plumbing Drawings
+                <br />
+                Complete Walktrough
               </>
             }
             p6={
               <>
-                3D Elevation
+                Architectural paln
                 <br />
-                Structural Design
+                Section and Elevation
+                <br />
+                3D Elevation
                 <br />
                 Electrical Drawings
                 <br />
                 Plumbing Drawings
                 <br />
-                Furniture Plan
+                Complete Walktrough
               </>
             }
           />
@@ -84,338 +98,252 @@ const index = () => {
         <Table
           p1={
             <>
-              Basic Elevation
-              <br />
-              Structural Design
+              As per Structural Design
             </>
           }
           p2={
             <>
-              3D Elevation
-              <br />
-              Structural Design
+               As per Structural Design
             </>
           }
           p3={
             <>
-              3D Elevation
-              <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+               As per Structural Design
             </>
           }
           p4={
             <>
-              3D Elevation
-              <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+               As per Structural Design
             </>
           }
           p5={
             <>
-              3D Elevation
-              <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+               As per Structural Design
             </>
           }
           p6={
             <>
-              3D Elevation
-              <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+               As per Structural Design
             </>
           }
         />
       </Panel>
-      <Panel header="Structure" key="3">
+      <Panel header="Bricks" key="3">
         <Table
           p1={
             <>
-              Basic Elevation
+              AAC Blocks 4"
               <br />
-              Structural Design
+              AAC Blocks 6"
             </>
           }
           p2={
             <>
-              3D Elevation
+              AAC Blocks 4"
               <br />
-              Structural Design
+              AAC Blocks 6"
+              <br />
+              Semi Ghol Bricks
             </>
           }
           p3={
             <>
-              3D Elevation
+              AAC Blocks 4"
               <br />
-              Structural Design
+              AAC Blocks 6"
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Ghol Bricks
             </>
           }
           p4={
             <>
-              3D Elevation
+             AAC Blocks 4"
               <br />
-              Structural Design
+              AAC Blocks 6"
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Ghol Bricks
             </>
           }
           p5={
             <>
-              3D Elevation
+               AAC Blocks 4"
               <br />
-              Structural Design
+              AAC Blocks 6"
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Ghol Bricks
             </>
           }
           p6={
             <>
-              3D Elevation
+               AAC Blocks 4"
               <br />
-              Structural Design
+              AAC Blocks 6"
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Ghol Bricks
             </>
           }
         />
       </Panel>
-      <Panel header="Drawings + Living + Bedroom" key="4">
+      <Panel header="Steel" key="4">
         <Table
           p1={
             <>
-              Basic Elevation
+              Jhanvi TMT
               <br />
-              Structural Design
+              Sangam TMT
+              <br />
+              Kamdhenu TMT or equivalent
             </>
           }
           p2={
             <>
-              3D Elevation
+              Bansal TMT
               <br />
-              Structural Design
+              Shakti TMT or equivalent
             </>
           }
           p3={
             <>
-              3D Elevation
+            Goel TMT
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+            Bansal TMT or equivalent  
             </>
           }
           p4={
             <>
-              3D Elevation
+            Goel TMT
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+            Bansal TMT or equivalent 
             </>
           }
           p5={
             <>
-              3D Elevation
+              Tata TMT
               <br />
-              Structural Design
+              Jindal TMT
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Goel TMT
             </>
           }
           p6={
             <>
-              3D Elevation
+              Tata TMT
               <br />
-              Structural Design
+              Jindal TMT
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Goel TMT
             </>
           }
         />
       </Panel>
-      <Panel header="Kitchen" key="5">
+      <Panel header="Cement" key="5">
         <Table
           p1={
             <>
-              Basic Elevation
+              KJS
               <br />
-              Structural Design
+              Ramco or equivalent
             </>
           }
           p2={
             <>
-              3D Elevation
+             KJS
               <br />
-              Structural Design
+              JK super or equivalent
             </>
           }
           p3={
             <>
-              3D Elevation
+              Ultratech
               <br />
-              Structural Design
+              Birla perfect
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              JK Super
             </>
           }
           p4={
             <>
-              3D Elevation
+              ACC 
               <br />
-              Structural Design
+              Ultratech
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Birla perfect
             </>
           }
           p5={
             <>
-              3D Elevation
-              <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+            ACC 
+            <br />
+            Ultratech
+            <br />
+            Birla perfect 
             </>
           }
           p6={
             <>
-              3D Elevation
+              ACC 
               <br />
-              Structural Design
+              Ultratech
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Birla perfect
             </>
           }
         />
       </Panel>
-      <Panel header="Bedroom" key="6">
+      <Panel header="Kitchen" key="6">
         <Table
           p1={
             <>
-              Basic Elevation
+              Ceramic wall tiles upto Rs.40/sqft.
               <br />
-              Structural Design
+              ISI marked faucet upto Rs.2400
+              <br />
+              Single sink upto Rs.3000
             </>
           }
           p2={
             <>
-              3D Elevation
+            Ceramic wall tiles upto Rs.60/sqft.
               <br />
-              Structural Design
+              ISI marked faucet upto Rs.3000
+              <br />
+              Single sink upto Rs.4500  
             </>
           }
           p3={
             <>
-              3D Elevation
+              Ceramic wall tiles upto Rs.60/sqft.
               <br />
-              Structural Design
+              ISI marked faucet upto Rs.3500
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Single sink upto Rs.6000
             </>
           }
           p4={
             <>
-              3D Elevation
+              Ceramic wall tiles upto Rs.80/sqft.
               <br />
-              Structural Design
+              ISI marked faucet upto Rs.4000
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Single sink upto Rs.7000
             </>
           }
           p5={
             <>
-              3D Elevation
+              Ceramic wall tiles upto Rs.100/sqft.
               <br />
-              Structural Design
+              ISI marked faucet upto Rs.4000
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Single sink upto Rs.8000
             </>
           }
           p6={
             <>
-              3D Elevation
+              Ceramic wall tiles upto Rs.120/sqft.
               <br />
-              Structural Design
+              ISI marked faucet upto Rs.6000
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Single sink upto Rs.10000
             </>
           }
         />
@@ -424,134 +352,114 @@ const index = () => {
         <Table
           p1={
             <>
-              Basic Elevation
+              Wall tiles upto Rs.40/sqft
               <br />
-              Structural Design
+              Fittings upto Rs. 40000 per 1000 sqft
+              <br />
+              CPVC pipe Kisan or equivalent
             </>
           }
           p2={
             <>
-              3D Elevation
+              Wall tiles upto Rs.60/sqft
               <br />
-              Structural Design
+              Fittings upto Rs. 40000 per 1000 sqft
+              <br />
+              CPVC pipe Plasto or equivalent
             </>
           }
           p3={
             <>
-              3D Elevation
+              Wall tiles upto Rs.60/sqft
               <br />
-              Structural Design
+              Fittings upto Rs. 50000 per 1000 sqft
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              CPVC pipe Supreme,Astral or equivalent
             </>
           }
           p4={
             <>
-              3D Elevation
+               Wall tiles upto Rs.80/sqft
               <br />
-              Structural Design
+              Fittings upto Rs. 60000 per 1000 sqft
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              CPVC pipe Ashirvad or equivalent
             </>
           }
           p5={
             <>
-              3D Elevation
+              Wall tiles upto Rs.100/sqft
               <br />
-              Structural Design
+              Fittings upto Rs. 80000 per 1000 sqft
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              CPVC pipe Ashirvad or equivalent
             </>
           }
           p6={
             <>
-              3D Elevation
+             Wall tiles upto Rs.120/sqft
               <br />
-              Structural Design
+             Fittings upto Rs. 100000 per 1000 sqft
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+             CPVC pipe Ashirvad or equivalent 
             </>
           }
         />
       </Panel>
-      <Panel header="Door & Window Work" key="8">
+      <Panel header="Door & Windows" key="8">
         <Table
           p1={
             <>
-              Basic Elevation
+              Main Door-Salwood frame & Panel worth Rs. 25000 includes fixture 
               <br />
-              Structural Design
+              Internal Doors-Flush Doors+Laminates upto Rs. 8000 including fixtures
+              <br />
+              Windows-Aliminum windows with glass and mesh shutters of Rs. 170/sqft (3 track with 1 mesh)
             </>
           }
           p2={
             <>
-              3D Elevation
+              Main Door-Salwood frame & Panel worth Rs. 40000 includes fixture 
               <br />
-              Structural Design
+              Internal Doors-Flush Doors+Laminates upto Rs. 8000 including fixtures
+              <br />
+              Windows-Aliminum windows with glass and mesh shutters of Rs. 210/sqft (3 track with 1 mesh)
             </>
           }
           p3={
             <>
-              3D Elevation
+              Main Door-Salwood frame & Panel worth Rs. 40000 includes fixture 
               <br />
-              Structural Design
+              Internal Doors-Flush Doors+Laminates upto Rs. 10000 including fixtures
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Windows-Aliminum windows with glass and mesh shutters of Rs. 240/sqft (3 track with 1 mesh)
             </>
           }
           p4={
             <>
-              3D Elevation
+              Main Door-Salwood frame & Panel worth Rs. 40000 includes fixture 
               <br />
-              Structural Design
+              Internal Doors-Flush Doors+Laminates upto Rs. 10000 including fixtures
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Windows-Aliminum windows with glass and mesh shutters of Rs. 300/sqft (3 track with 1 mesh)
             </>
           }
           p5={
             <>
-              3D Elevation
+              Main Door-Salwood frame & Panel worth Rs. 40000 includes fixture 
               <br />
-              Structural Design
+              Internal Doors-Flush Doors+Laminates upto Rs. 10000 including fixtures
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Windows-Aliminum windows with glass and mesh shutters of Rs. 650/sqft (3 track with 1 mesh)
             </>
           }
           p6={
             <>
-              3D Elevation
+              Main Door-Salwood frame & Panel worth Rs. 40000 includes fixture 
               <br />
-              Structural Design
+              Internal Doors-Flush Doors+Laminates upto Rs. 10000 including fixtures
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Windows-Aliminum windows with glass and mesh shutters of Rs. 650/sqft (3 track with 1 mesh)
             </>
           }
         />
@@ -560,66 +468,68 @@ const index = () => {
         <Table
           p1={
             <>
-              Basic Elevation
+              Living and Dining Flooring - Tiles of value upto Rs.40 per sqft
               <br />
-              Structural Design
+              Rooms and Kitchen Flooring - Tiles upto Rs.40 per sqft
+              <br />
+              Balcony and Open Areas Flooring -Anti-skid tiles of value upto Rs.40 per sqft
+              <br />
+              Staircase Flooring - Rajasthani Granite of value upto ₹ 90 per sqft
             </>
           }
           p2={
             <>
-              3D Elevation
+              Living and Dining Flooring - Tiles of value upto Rs.55 per sqft
               <br />
-              Structural Design
+              Rooms and Kitchen Flooring - Tiles upto Rs.55 per sqft
+              <br />
+              Balcony and Open Areas Flooring -Anti-skid tiles of value upto Rs.55 per sqft
+              <br />
+              Staircase Flooring - Rajasthani Granite of value upto ₹ 110 per sqft
             </>
           }
           p3={
             <>
-              3D Elevation
+              Living and Dining Flooring - Tiles of value upto Rs.70 per sqft
               <br />
-              Structural Design
+              Rooms and Kitchen Flooring - Tiles upto Rs.70 per sqft
               <br />
-              Electrical Drawings
+              Balcony and Open Areas Flooring -Anti-skid tiles of value upto Rs.70 per sqft
               <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Staircase Flooring - Rajasthani Granite of value upto ₹ 125 per sqft
             </>
           }
           p4={
             <>
-              3D Elevation
+              Living and Dining Flooring - Tiles of value upto Rs.85 per sqft
               <br />
-              Structural Design
+              Rooms and Kitchen Flooring - Tiles upto Rs.85 per sqft
               <br />
-              Electrical Drawings
+              Balcony and Open Areas Flooring -Anti-skid tiles of value upto Rs.85 per sqft
               <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Staircase Flooring - Rajasthani Granite of value upto ₹ 140 per sqft
             </>
           }
           p5={
             <>
-              3D Elevation
+              Living and Dining Flooring - Tiles of value upto Rs.100 per sqft
               <br />
-              Structural Design
+              Rooms and Kitchen Flooring - Tiles upto Rs.100 per sqft
               <br />
-              Electrical Drawings
+              Balcony and Open Areas Flooring -Anti-skid tiles of value upto Rs.100 per sqft
               <br />
-              Plumbing Drawings
+              Staircase Flooring - Rajasthani Granite of value upto ₹ 150 per sqft
             </>
           }
           p6={
             <>
-              3D Elevation
+              Living and Dining Flooring - Tiles of value upto Rs.120 per sqft
               <br />
-              Structural Design
+              Rooms and Kitchen Flooring - Tiles upto Rs.120 per sqft
               <br />
-              Electrical Drawings
+              Balcony and Open Areas Flooring -Anti-skid tiles of value upto Rs.160 per sqft
               <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Staircase Flooring - Rajasthani Granite of value upto ₹ 90 per sqft
             </>
           }
         />
@@ -628,66 +538,44 @@ const index = () => {
         <Table
           p1={
             <>
-              Basic Elevation
+              Interior Painting - JK Putty + Tractor Emulsion or equivalent
               <br />
-              Structural Design
+              Exterior Painting - Asian Primer + Ace Exterior Emulsion Paint or equivalent
             </>
           }
           p2={
             <>
-              3D Elevation
+              Interior Painting - JK Putty + Tractor Emulsion or equivalent
               <br />
-              Structural Design
+              Exterior Painting - Asian Primer + Ace Exterior Emulsion Paint or equivalent
             </>
           }
           p3={
             <>
-              3D Elevation
+              Interior Painting - JK Putty + Tractor Emulsion or equivalent
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Exterior Painting - Asian Primer + Ace Exterior Emulsion Paint or equivalent
             </>
           }
           p4={
             <>
-              3D Elevation
+              Interior Painting - JK Putty + Apcolite Premium Emulsion or equivalent
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Exterior Painting - Asian Primer + Ace Exterior Emulsion Paint or equivalent
             </>
           }
           p5={
             <>
-              3D Elevation
+              Interior Painting - JK Putty + Apcolite Premium Emulsion or equivalent
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Exterior Painting - Asian Primer + Ace Exterior Emulsion Paint or equivalent
             </>
           }
           p6={
             <>
-              3D Elevation
+              Interior Painting - JK Putty + Royale Luxury Emuslion or equivalent
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Exterior Painting - Asian Primer + Ace Exterior Emulsion Paint or equivalent
             </>
           }
         />
@@ -696,66 +584,44 @@ const index = () => {
         <Table
           p1={
             <>
-              Basic Elevation
+              Wires - Fireproof wires by Finolex
               <br />
-              Structural Design
+              Switches & Sockets - Anchor Roma
             </>
           }
           p2={
             <>
-              3D Elevation
+              Wires - Fireproof wires by Finolex
               <br />
-              Structural Design
+              Switches & Sockets - Anchor Roma
             </>
           }
           p3={
             <>
-              3D Elevation
+              Wires - Fireproof wires by V - Guard
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Switches & Sockets - Anchor Roma
             </>
           }
           p4={
             <>
-              3D Elevation
+              Wires - Fireproof wires by V - Guard
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Switches & Sockets - Phlips or equivalent
             </>
           }
           p5={
             <>
-              3D Elevation
+              Wires - Fireproof wires by RR Kabel
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Switches & Sockets - Philips or equivalent
             </>
           }
           p6={
             <>
-              3D Elevation
+              Wires - Fireproof wires by RR Kabel
               <br />
-              Structural Design
-              <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Switches & Sockets - Havells or equivalent
             </>
           }
         />
@@ -764,66 +630,56 @@ const index = () => {
         <Table
           p1={
             <>
-              Basic Elevation
+              Underground Sump - 4000 litres
               <br />
-              Structural Design
+              Staircase Railing - Stainless Steel Railing
+              <br />
+              Main Gate - Galvanized Iron Steel Gate upto Rs. 20000
             </>
           }
           p2={
             <>
-              3D Elevation
+              Underground Sump - 4000 litres
               <br />
-              Structural Design
+              Staircase Railing - Stainless Steel Railing
+              <br />
+              Main Gate - Galvanized Iron Steel Gate upto Rs. 20000
             </>
           }
           p3={
             <>
-              3D Elevation
+               Underground Sump - 6000 litres
               <br />
-              Structural Design
+              Staircase Railing - Stainless Steel Railing
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Main Gate - Galvanized Iron Steel Gate upto Rs. 20000
             </>
           }
           p4={
             <>
-              3D Elevation
+               Underground Sump - 6000 litres
               <br />
-              Structural Design
+              Staircase Railing - Stainless Steel Railing
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Main Gate - Galvanized Iron Steel Gate upto Rs. 25000
             </>
           }
           p5={
             <>
-              3D Elevation
+               Underground Sump - 6000 litres
               <br />
-              Structural Design
+              Staircase Railing - Stainless Steel Railing
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Main Gate - Galvanized Iron Steel Gate upto Rs. 30000
             </>
           }
           p6={
             <>
-              3D Elevation
+               Underground Sump - 8000 litres
               <br />
-              Structural Design
+              Staircase Railing - Stainless Steel Railing
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Main Gate - Galvanized Iron Steel Gate upto Rs. 40000
             </>
           }
         />
@@ -832,66 +688,56 @@ const index = () => {
         <Table
           p1={
             <>
-              Basic Elevation
+              Overhead Tank - Sintex Double Layered 1000 ltrs
               <br />
-              Structural Design
+              Window Grill - Basic MS Grills with Enamel Paint at Rs.110 per sqft.
+              <br />
+              Chicken Mesh Wire - Fixing the Joints of R.C.C & Masonry Wall Rs.110 per sqft.
             </>
           }
           p2={
             <>
-              3D Elevation
+              Overhead Tank - Sintex Double Layered 1500 ltrs
               <br />
-              Structural Design
+              Window Grill - Basic MS Grills with Enamel Paint at Rs.110 per sqft.
+              <br />
+              Chicken Mesh Wire - Fixing the Joints of R.C.C & Masonry Wall Rs.145 per sqft.
             </>
           }
           p3={
             <>
-              3D Elevation
+              Overhead Tank - Sintex Double Layered 2000 ltrs
               <br />
-              Structural Design
+              Window Grill - Basic MS Grills with Enamel Paint at Rs.110 per sqft.
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Chicken Mesh Wire - Fixing the Joints of R.C.C & Masonry Wall Rs.145 per sqft.
             </>
           }
           p4={
             <>
-              3D Elevation
+              Overhead Tank - Sintex Double Layered 2500 ltrs
               <br />
-              Structural Design
+              Window Grill - Basic MS Grills with Enamel Paint at Rs.130 per sqft.
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Chicken Mesh Wire - Fixing the Joints of R.C.C & Masonry Wall Rs.145 per sqft.
             </>
           }
           p5={
             <>
-              3D Elevation
+              Overhead Tank - Sintex Double Layered 2500 ltrs
               <br />
-              Structural Design
+              Window Grill - Basic MS Grills with Enamel Paint at Rs.140 per sqft.
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
+              Chicken Mesh Wire - Fixing the Joints of R.C.C & Masonry Wall Rs.145 per sqft.
             </>
           }
           p6={
             <>
-              3D Elevation
+              Overhead Tank - Sintex Double Layered 4000 ltrs
               <br />
-              Structural Design
+              Window Grill - Basic MS Grills with Enamel Paint at Rs.160 per sqft.
               <br />
-              Electrical Drawings
-              <br />
-              Plumbing Drawings
-              <br />
-              Furniture Plan
+              Chicken Mesh Wire - Fixing the Joints of R.C.C & Masonry Wall Rs.145 per sqft.
             </>
           }
         />
