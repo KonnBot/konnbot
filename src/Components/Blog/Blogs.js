@@ -1,13 +1,14 @@
 export const Blogs = [
   {
     title:
-      "White Space Creating Ambiance with minimal Boxing & Louvers makes the Elevation more.",
+      "White Space Creating Ambiance with minimal Boxing & Louvers makes the Elevation .",
     url: "/assets/01_HomePage.png",
-    blog: `The Indus Valley Civilization covered a large area around the Indus River basin and beyond in late Bronze Age India. In its mature phase, from about 2600 to 1900 BCE, it produced several cities marked by great uniformity within and between sites, including Harappa, Lothal, and the UNESCO World Heritage Site Mohenjo-daro. The civic and town planning and engineering aspects of these are remarkable, but the design of the buildings is "of a startling utilitarian character". There are granaries, drains, lombadthing, water-courses and tanks, but neither palaces nor temples have been identified, though cities have a central raised and fortified "citadel".[2] Mohenjo-daro has wells which may be the predecessors of the stepwell.[3] As many as 700 wells have been discovered in just one section of the city, leading scholars to believe that 'cylindrical brick lined wells' were invented by the Indus Valley Civilization.[3]
+    blog: `${<>The Indus Valley Civilization covered a large area around the Indus River basin and beyond in late Bronze Age India. In its mature phase, from about 2600 to 1900 BCE, it produced several cities marked by great uniformity within and between sites, including Harappa, Lothal, and the UNESCO World Heritage Site Mohenjo-daro. The civic and town planning and engineering aspects of these are remarkable, but the design of the buildings is "of a startling utilitarian character". There are granaries, drains, lombadthing, water-courses and tanks, but neither palaces nor temples have been identified, though cities have a central raised and fortified "citadel".[2] Mohenjo-daro has wells which may be the predecessors of the stepwell.[3] As many as 700 wells have been discovered in just one section of the city, leading scholars to believe that 'cylindrical brick lined wells' were invented by the Indus Valley Civilization.[3]
 
     Architectural decoration is extremely minimal, though there are "narrow pointed niches" inside some buildings. Most of the art found is in miniature forms like seals, and mainly in terracotta, but there are very few larger sculptures of figures. In most sites fired mud-brick (not sun-baked as in Mesopotamia) is used exclusively as the building material, but a few such as Dholavira are in stone. Most houses have two storeys, and very uniform sizes and plans. The large cities declined relatively quickly, for unknown reasons, leaving a less sophisticated village culture behind.[4]
     
     600 BCE—250 CE
+    <br/>
     
     After the Indus Valley Civilization, there are few traces of Indian architecture, which probably mostly used wood, or brick which has been recycled, until around the time of the Maurya Empire, from 322 to 185 BCE. From this period for several centuries onwards, much the best remains are of Indian rock-cut architecture, mostly Buddhist, and there are also a number of Buddhist images that give very useful information.
     
@@ -25,9 +26,8 @@ export const Blogs = [
     
     Examples of early North Indian Hindu temples that have survived after the Udayagiri Caves in Madhya Pradesh include those at Tigawa (early 5th century),[24] Sanchi Temple 17 (similar, but respectively Hindu and Buddhist), Deogarh, Parvati Temple, Nachna (465),[25] Bhitargaon, the largest Gupta brick temple to survive,[26] and Lakshman Brick Temple, Sirpur (600–625 CE). Gop Temple in Gujarat (c. 550 or later) is an oddity, with no surviving close comparator.[27]
     
-    There are a number of different broad models, which would continue to be the case for more than a century after the Gupta period, but temples such as Tigawa and Sanchi Temple 17, which are small but massively built stone prostyle buildings with a sanctuary and a columned porch, show the most common basic plan that continues today. Both of these have flat roofs over the sanctuary, which would become uncommon by about the 8th century. The Mahabodhi Temple, Bhitargaon, Deogarh and Gop already all show high superstructures of different shapes.[28] The Chejarla Kapoteswara temple demonstrates that free-standing chaitya-hall temples with barrel roofs continued to be built, probably with many smaller examples in wood.[29]`,
+    There are a number of different broad models, which would continue to be the case for more than a century after the Gupta period, but temples such as Tigawa and Sanchi Temple 17, which are small but massively built stone prostyle buildings with a sanctuary and a columned porch, show the most common basic plan that continues today. Both of these have flat roofs over the sanctuary, which would become uncommon by about the 8th century. The Mahabodhi Temple, Bhitargaon, Deogarh and Gop already all show high superstructures of different shapes.[28] The Chejarla Kapoteswara temple demonstrates that free-standing chaitya-hall temples with barrel roofs continued to be built, probably with many smaller examples in wood.[29]</>}`,
   },
-
   {
     title:
       "Carpet Area ,Built up Area and Super Built Area",
@@ -37,26 +37,30 @@ export const Blogs = [
 As per PMAY the Carpet area is the net usable area of your home, excluding the area covered by the external walls but including the area covered by internal partition walls of the apartment
 Carpet Area can be calculated as
 Carpet Area = Total Area of (Bedrooms, Dining Room, Dressing Room, Bathroom, etc.) – (Thickness of the Wall)
+<br>
+
 
 What Is Built-Up Area?
 Built-up area is measured from the external perimeter wall surfaces. Built up area is carpet area plus the area covered by walls. The built-up area includes balconies, terraces (with or without roof), mezzanine floors and other detachable habitable areas such as servant room, etc. It is 20-25% more than the carpet area.
 Built-up Area can be calculated as:
 Built-up Area = Carpet Area + External Wall Thickness+ Utility Ducts and other Interior area
 
+<br>
+
 What Is Super Built-Up Area?
 Super built-up area is the built-up area in addition to common/open area like lobby, corridors, stair cases, lift shafts, lift lobby, club house, pool, garden ,swimming pool,sump and other common area in the plot.
 Super-Built-up Area is calculated as: 
 Super Built-up Area = Built-up Area + Common Share Area `,
   },
-
   {
     title:
       "Floor Area Ratio and Floor Space Index",
     url: "/assets/FAR.jpg",
-    blog: `Floor Area ratio
-
+    blog: <>Floor Area ratio
+     <br/>
     Floor area ratio is the ratio of a building's total floor area to the size of land upon which it is built. Every city has a limited space so FAR is used as regulations in building planning along with the building-to-land ratio. Industrial, Commercial, Agricultural and residential buildings have different FAR
     FAR = Gross plot Area/area of plot
+    <br/>
     The higher value of FAR indicates more dense construction. Floor Area ratio is sometimes called floor space ratio (FSR), floor space index (FSI), site ratio or plot ratio.
     The term FAR and FSI are the same terms, the only difference is in terms of their representation. FAR is represented as ratio while FSI is represented in terms of index. Thus an FAR of 1.25 is represented as FSI of 125%.
     Example:If your plot area is 1000 sqft. and the FAR allowed in your city is 1.5% then your total built up area cannot exceed 1000x1.5= 1500 sqft.
@@ -72,6 +76,6 @@ Super Built-up Area = Built-up Area + Common Share Area `,
     But if your plot in next to 30ft roadway you can avail extra 20% by paying the fees of premium FSI and now your total built up area can be
     Built-up area = Plot area x Normal FSI x Premium FSI
                               1200x1.5x1.2 =2160 sqft.
-    Thus after availing premium FSI you can get a total built up area of 2160 sqft.`,
+    Thus after availing premium FSI you can get a total built up area of 2160 sqft.</>,
   },
 ];

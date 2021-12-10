@@ -59,26 +59,26 @@ const index = () => {
       <Col span={18}>
         <div className={style.container3}>
           <div className={style.container3text1}>
-            Reviews
+            Walkthrough
             <span className={style.titleImg}>
               <img alt="title" src="/assets/Title.png" />
             </span>
           </div>
           <div className={style.container3text2}>
-            Hear what KONNBOT Community has to say.
+            Have a look of Walthrough of our projects
           </div>
         </div>
       </Col>
       <Col span={18}>
         <Row justify="center" gutter={[30, 30]}>
           <Col span={24} sm={12} md={8} lg={8} xl={8} xxl={8}>
-            <VideoProjectCard />
+            <VideoProjectCard url="" name="" text="" />
           </Col>
           <Col span={24} sm={12} md={8} lg={8} xl={8} xxl={8}>
-            <VideoProjectCard />
+            <VideoProjectCard url="" name="" text=""  />
           </Col>
           <Col span={24} sm={12} md={8} lg={8} xl={8} xxl={8}>
-            <VideoProjectCard />
+            <VideoProjectCard url="" name="" text=""  />
           </Col>
         </Row>
       </Col>

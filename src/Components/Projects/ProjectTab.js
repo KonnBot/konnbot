@@ -154,9 +154,6 @@ const ProjectTab = () => (
     <TabPane tab="Ongoing Projects" key="3">
       Comming Soon !
     </TabPane>
-    <TabPane tab="Upcoming Projects" key="4">
-      Comming Soon !
-    </TabPane>
   </Tabs>
 );
 

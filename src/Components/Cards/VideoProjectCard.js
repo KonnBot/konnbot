@@ -1,7 +1,7 @@
 import React from "react";
 import { Card } from "antd";
 import style from "./Cards.module.css";
-export default function VideoProjectCard() {
+export default function VideoProjectCard({url,name, text}) {
   return (
     <Card
       bordered={true}
@@ -10,15 +10,15 @@ export default function VideoProjectCard() {
           title="video"
           width="420"
           height="315"
-          src="https://youtu.be/k7vAqPTVKjY"
+          src={url&&url}
+          
         ></iframe>
       }
       bodyStyle={{ padding: "10px" }}
     >
-      <div className={style.videoprojecttext1}>Mr. Rajesh Sahu Residence</div>
+      <div className={style.videoprojecttext1}>{name && name}</div>
       <div className={style.videoprojecttext2}>
-        Technology integrated Construction, Help us to provide you various
-        facilities in single.
+        {text && text}
       </div>
     </Card>
   );
