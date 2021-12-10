@@ -72,13 +72,13 @@ const index = () => {
       <Col span={18}>
         <Row justify="center" gutter={[30, 30]}>
           <Col span={24} sm={12} md={8} lg={8} xl={8} xxl={8}>
-            <VideoProjectCard url="" name="" text="" />
+            <VideoProjectCard url="https://www.youtube.com/embed/CTP9JC6yT4g" name="Mr. Vivek Singh Residence" text="Akriti Retreat, Rohit Nagar, Bhopal" />
           </Col>
           <Col span={24} sm={12} md={8} lg={8} xl={8} xxl={8}>
-            <VideoProjectCard url="" name="" text=""  />
+            <VideoProjectCard url="https://www.youtube.com/embed/k7vAqPTVKjY" name="Grace Garden Housing" text="BHEL,Bhopal"  />
           </Col>
           <Col span={24} sm={12} md={8} lg={8} xl={8} xxl={8}>
-            <VideoProjectCard url="" name="" text=""  />
+            <VideoProjectCard url="https://www.youtube.com/embed/lg7bE3lPVG0" name="Mr. Rajesh Sahu Residence" text="Lalghati,Bhopal"  />
           </Col>
         </Row>
       </Col>
