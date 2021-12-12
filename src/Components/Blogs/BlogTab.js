@@ -36,13 +36,13 @@ export default function BlogTab() {
           <Row justify="center" gutter={[20, 20]}>
             <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
               <BlogCard
-                id={9}
-                src="/assets/18_HomePage.png"
-                text="White Space Creating Ambiance with minimal Boxing & Louvers"
-                desc="Technology integrated Construction, Help us to provide you various facilities in single platform Technology integrated Construction, Help us to provide you various facilities in"
-                seen="108"
+                id={4}
+                src="/assets/Drawings .jpg"
+                text="Types of Drawings required in Construction"
+                desc="Different types of drawings are needed during construction such as architectural drawings, structural, electrical, plumbing, finishing drawings and landscaping drawing. Drawings plays an important role in the "
+                seen="120"
                 like="84"
-                time="1 Week"
+                time="2 Week"
               />
             </Col>
             </Row>

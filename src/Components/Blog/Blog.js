@@ -65,9 +65,9 @@ export default function Blog() {
           <Col span={8}>
             <BlogCard
               id={2}
-              src="/assets/18_HomePage.png"
-              text="White Space Creating Ambiance with minimal Boxing & Louvers"
-              desc="Technology integrated Construction, Help us to provide you various facilities in single platform Technology integrated Construction, Help us to provide you various facilities in"
+              src="/assets/Carpet.jpg"
+              text="Carpet area,Built up Area and Super Built up Area"
+              desc="Carpet area is the distance between inner walls of your home. Carpet area is the actual usable area inside your home. Carpet area is around 75-80% of total built up area"
               seen="108"
               like="84"
               time="1 Week"
@@ -75,10 +75,10 @@ export default function Blog() {
           </Col>
           <Col span={8}>
             <BlogCard
-              id={3}
-              src="/assets/18_HomePage.png"
-              text="White Space Creating Ambiance with minimal Boxing & Louvers"
-              desc="Technology integrated Construction, Help us to provide you various facilities in single platform Technology integrated Construction, Help us to provide you various facilities in"
+              id={4}
+              src="/assets/Drawings.jpg"
+              text="Drawings required in construction"
+              desc="Floor area ratio is the ratio of a building's total floor area to the size of land upon which it is built. Every city has a limited space so FAR "
               seen="108"
               like="84"
               time="1 Week"

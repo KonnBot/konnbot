@@ -9,7 +9,7 @@ export default function VideoProjectCard({url,name, text}) {
         <iframe
           title="video"
           width="420"
-          height="315"
+          height="350"
           src={url&&url}
           
         ></iframe>

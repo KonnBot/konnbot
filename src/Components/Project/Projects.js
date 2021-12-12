@@ -50,10 +50,10 @@ export const Projects = [
     area: "3794",
     floor: "G + 2",
     cost: "54.28 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/Aashu.png",
     months: "11",
     rating: "4.6",
-    contractorName: "L&R Construction",
+    contractorName: "Mr. Asfaque Khan",
     constructorData: `In the case of the Mauryan capital Pataliputra (near Patna), we have Greek accounts, and that of Faxian; Megasthenes (a visitor around 300 BCE) mentions 564 towers and 64 gates in the city walls. Modern excavations have uncovered a "massive palisade of teak beams held together with iron dowels".[7] A huge apadana-like hall with eighty sandstone columns shows clear influence from contemporary Achaemenid Persia.[8] The single massive sandstone Pataliputra capital shows clear Hellenistic features, reaching India via Persia.[9] The famous Ashoka columns show great sophistication, and a variety of influences in their details. In both these cases a now-vanished Indian predecessor tradition in wood is likely.[10]
     `,
     about: `In the case of the Mauryan capital Pataliputra (near Patna), we have Greek accounts, and that of Faxian; Megasthenes (a visitor around 300 BCE) mentions 564 towers and 64 gates in the city walls. Modern excavations have uncovered a "massive palisade of teak beams held together with iron dowels".[7] A huge apadana-like hall with eighty sandstone columns shows clear influence from contemporary Achaemenid Persia.[8] The single massive sandstone Pataliputra capital shows clear Hellenistic features, reaching India via Persia.[9] A huge apadana-like hall with eighty sandstone columns shows clear influence from contemporary Achaemenid Persia.[8] The single massive sandstone Pataliputra capital shows clear Hellenistic features, reaching India via Persia.[9]`,

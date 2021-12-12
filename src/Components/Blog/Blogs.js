@@ -56,26 +56,61 @@ Super Built-up Area = Built-up Area + Common Share Area `,
     title:
       "Floor Area Ratio and Floor Space Index",
     url: "/assets/FAR.jpg",
-    blog: <>Floor Area ratio
+    blog: <>  <b>Floor Area ratio</b> 
      <br/>
     Floor area ratio is the ratio of a building's total floor area to the size of land upon which it is built. Every city has a limited space so FAR is used as regulations in building planning along with the building-to-land ratio. Industrial, Commercial, Agricultural and residential buildings have different FAR
+    <br/>
+    <br/>
     FAR = Gross plot Area/area of plot
+    <br/>
     <br/>
     The higher value of FAR indicates more dense construction. Floor Area ratio is sometimes called floor space ratio (FSR), floor space index (FSI), site ratio or plot ratio.
     The term FAR and FSI are the same terms, the only difference is in terms of their representation. FAR is represented as ratio while FSI is represented in terms of index. Thus an FAR of 1.25 is represented as FSI of 125%.
-    Example:If your plot area is 1000 sqft. and the FAR allowed in your city is 1.5% then your total built up area cannot exceed 1000x1.5= 1500 sqft.
-    
-     What is Premium FSI?
+    <br/>
+    <br/>
+    Example:
+    <br/>
+    If your plot area is 1000 sqft. and the FAR allowed in your city is 1.5% 
+    <br/>then your total built up area cannot exceed 1000x1.5= 1500 sqft.
+    <br/>
+    <br/>
+    <b>What is Premium FSI?</b> 
+     <br/>
+     <br/>
     If you have a road with a width of 30-40 ft. you will be able to build 20 % more than the permissible FSI, on payment of the required premium FSI charges.
+    <br/>
     •	30 – 40 Feet Road Width         =   20 % Premium FSI
+    <br/>
     •	40 – 60 Feet Road Width         =   30 % Premium FSI
-    •	> 60 Feet Road Width            =   40 % Premium FSI
-    
+    <br/>
+    •	Greater than 60 Feet Road Width            =   40 % Premium FSI
+    <br/>
+    <br/>
     If your land is located next to 30-40 feet roadway the you can avail a premium FSI of 20%,thus you can build 20% more than the allowable FSI of your city.
-    Example: If your plot area is 1200 sqft. and the FAR allowed in your city is 1.5% then your total built up area cannot exceed 1200x1.5= 1800 sqft.
+    <br/>
+    Example:
+    <br/>
+     If your plot area is 1200 sqft. and the FAR allowed in your city is 1.5% 
+     <br/>
+     then your total built up area cannot exceed 1200x1.5= 1800 sqft.
+     <br/>
     But if your plot in next to 30ft roadway you can avail extra 20% by paying the fees of premium FSI and now your total built up area can be
+    <br/>
+    <br/>
     Built-up area = Plot area x Normal FSI x Premium FSI
                               1200x1.5x1.2 =2160 sqft.
+   <br/>                         
     Thus after availing premium FSI you can get a total built up area of 2160 sqft.</>,
+  },
+  {
+    title:
+      "Different types of Drawings required in Construction",
+    url: "/assets/Drawings.jpg",
+    blog: <>Different types of drawings are needed during construction such as architectural drawings, structural, electrical, plumbing, finishing drawings and landscaping drawing. Drawings plays an important role in the construction field to convey the ideologies and perspective of the designer to the layman at site. The drawings are used for the layout to indicate to appearance of the building and they also indicate the dimensional details of the structure. The different types of drawings used during construction are
+     <br/>
+     1. Architectural Drawing
+     <br/>
+     Architectural drawing is the technical drawing of the project. These drawings have a definite size and scale and are the base for all other drawings of the project. It contains all the details of site plan, floor plan, elevations, sections, size of opening of doors and windows and also the details of locating the furniture in the room.
+ </>,
   },
 ];
