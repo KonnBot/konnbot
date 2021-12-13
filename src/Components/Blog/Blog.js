@@ -66,7 +66,7 @@ export default function Blog() {
             <BlogCard
               id={2}
               src="/assets/FAR.jpg"
-              text="Floor Area ration and Floor space Index"
+              text="Floor Area ratio and Floor space Index"
               desc="Floor area ratio is the ratio of a building's total floor area to the size of land upon which it is built. Every city has a limited space so FAR is used as regulations in building planning along with the building-to-land ratio. Industrial "
               seen="120"
               like="84"
