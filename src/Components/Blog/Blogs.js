@@ -30,30 +30,6 @@ export const Blogs = [
   },
   {
     title:
-      "Carpet Area ,Built up Area and Super Built Area",
-    url: "/assets/carpet.jpg",
-    blog: `What Is Carpet Area?
-    Carpet area is the distance between inner walls of your home. Carpet area is the actual usable area inside your home. Carpet area is around 75-80% of total built up area
-As per PMAY the Carpet area is the net usable area of your home, excluding the area covered by the external walls but including the area covered by internal partition walls of the apartment
-Carpet Area can be calculated as
-Carpet Area = Total Area of (Bedrooms, Dining Room, Dressing Room, Bathroom, etc.) – (Thickness of the Wall)
-<br>
-
-
-What Is Built-Up Area?
-Built-up area is measured from the external perimeter wall surfaces. Built up area is carpet area plus the area covered by walls. The built-up area includes balconies, terraces (with or without roof), mezzanine floors and other detachable habitable areas such as servant room, etc. It is 20-25% more than the carpet area.
-Built-up Area can be calculated as:
-Built-up Area = Carpet Area + External Wall Thickness+ Utility Ducts and other Interior area
-
-<br>
-
-What Is Super Built-Up Area?
-Super built-up area is the built-up area in addition to common/open area like lobby, corridors, stair cases, lift shafts, lift lobby, club house, pool, garden ,swimming pool,sump and other common area in the plot.
-Super-Built-up Area is calculated as: 
-Super Built-up Area = Built-up Area + Common Share Area `,
-  },
-  {
-    title:
       "Floor Area Ratio and Floor Space Index",
     url: "/assets/FAR.jpg",
     blog: <>  <b>Floor Area ratio</b> 
@@ -104,13 +80,38 @@ Super Built-up Area = Built-up Area + Common Share Area `,
   },
   {
     title:
-      "Different types of Drawings required in Construction",
-    url: "/assets/Drawings.jpg",
-    blog: <>Different types of drawings are needed during construction such as architectural drawings, structural, electrical, plumbing, finishing drawings and landscaping drawing. Drawings plays an important role in the construction field to convey the ideologies and perspective of the designer to the layman at site. The drawings are used for the layout to indicate to appearance of the building and they also indicate the dimensional details of the structure. The different types of drawings used during construction are
+      "Carpet Area,Built up and Super Built up Area ",
+    url: "/assets/Carpet.jpg",
+    blog: <>  <b>Carpet Area</b> 
      <br/>
-     1. Architectural Drawing
+     Carpet area is the distance between inner walls of your home. Carpet area is the actual usable area inside your home. Carpet area is around 75-80% of total built up area
+    <br/>
+    As per PMAY the Carpet area is the net usable area of your home, excluding the area covered by the external walls but including the area covered by internal partition walls of the apartment
+    <br/>
+    <b>Carpet Area can be calculated as</b>
+    <br/>
+    Carpet Area = Total Area of (Bedrooms, Dining Room, Dressing Room, Bathroom, etc.) - (Thickness of the Wall)
+    <br/>
+    <br/>
+    <br/>
+    <b>Built up Area</b> 
      <br/>
-     Architectural drawing is the technical drawing of the project. These drawings have a definite size and scale and are the base for all other drawings of the project. It contains all the details of site plan, floor plan, elevations, sections, size of opening of doors and windows and also the details of locating the furniture in the room.
- </>,
+     <br/>
+     Built-up area is measured from the external perimeter wall surfaces. Built up area is carpet area plus the area covered by walls. The built-up area includes balconies, terraces (with or without roof), mezzanine floors and other detachable habitable areas such as servant room, etc. It is 20-25% more than the carpet area.
+    <br/>
+    <br/>
+    <b>Built up Area can be calculated as</b>
+    <br/>
+    Built-up Area = Carpet Area + External Wall Thickness+ Utility Ducts and other Interior area
+    <br/>
+    <br/>
+    <b> Super Built up Area</b>
+    <br/>
+    <br/>
+    Super built-up area is the built-up area in addition to common/open area like lobby, corridors, stair cases, lift shafts, lift lobby, club house, pool, garden ,swimming pool,sump and other common area in the plot. 
+     <br/>
+     <b> Super Built up Area can be calculated as</b> 
+     <br/>
+     Super Built-up Area = Built-up Area + Common Share Area </>,
   },
 ];

@@ -65,23 +65,23 @@ export default function Blog() {
           <Col span={8}>
             <BlogCard
               id={2}
-              src="/assets/Carpet.jpg"
-              text="Carpet area,Built up Area and Super Built up Area"
-              desc="Carpet area is the distance between inner walls of your home. Carpet area is the actual usable area inside your home. Carpet area is around 75-80% of total built up area"
-              seen="108"
+              src="/assets/FAR.jpg"
+              text="Floor Area ration and Floor space Index"
+              desc="Floor area ratio is the ratio of a building's total floor area to the size of land upon which it is built. Every city has a limited space so FAR is used as regulations in building planning along with the building-to-land ratio. Industrial "
+              seen="120"
               like="84"
-              time="1 Week"
+              time="2 Week"
             />
           </Col>
           <Col span={8}>
             <BlogCard
-              id={4}
-              src="/assets/Drawings.jpg"
-              text="Drawings required in construction"
-              desc="Floor area ratio is the ratio of a building's total floor area to the size of land upon which it is built. Every city has a limited space so FAR "
-              seen="108"
-              like="84"
-              time="1 Week"
+             id={3}
+             src="/assets/Carpet.jpg"
+             text="Carpet Area ,Built up Area and Super built up Area"
+             desc="Carpet area is the distance between inner walls of your home. Carpet area is the actual usable area inside your home. Carpet area is around 75-80% of total built up area "
+             seen="120"
+             like="84"
+             time="2 Week"
             />
           </Col>
         </Row>
