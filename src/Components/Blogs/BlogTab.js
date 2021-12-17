@@ -34,7 +34,7 @@ export default function BlogTab() {
       <TabPane tab="Construction" key="3">
       <div style={{ paddingTop: "20px", paddingBottom: "20px" }}>
           <Row justify="center" gutter={[20, 20]}>
-            <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
+            <Col sm={12} md={8} lg={8} xl={8} xxl={8}>
               <BlogCard
                 id={2}
                 src="/assets/FAR.jpg"
@@ -45,7 +45,7 @@ export default function BlogTab() {
                 time="2 Week"
               />
             </Col>
-            <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
+            <Col sm={12} md={8} lg={8} xl={8} xxl={8}>
               <BlogCard
                 id={3}
                 src="/assets/Carpet.jpg"
@@ -56,7 +56,7 @@ export default function BlogTab() {
                 time="2 Week"
               />
             </Col>
-            <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
+            <Col sm={12} md={8} lg={8} xl={8} xxl={8}>
               <BlogCard
                 id={4}
                 src="/assets/Drawings.jpg"
@@ -67,7 +67,7 @@ export default function BlogTab() {
                 time="2 Week"
               />
             </Col>
-            <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
+            <Col sm={12} md={8} lg={8} xl={8} xxl={8}>
               <BlogCard
                 id={5}
                 src="/assets/building.png"
@@ -78,7 +78,7 @@ export default function BlogTab() {
                 time="2 Week"
               />
             </Col>
-            <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
+            <Col sm={12} md={8} lg={8} xl={8} xxl={8}>
               <BlogCard
                 id={6}
                 src="/assets/Bricks.jpeg"

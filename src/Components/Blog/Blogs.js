@@ -222,7 +222,7 @@ Floor plan gives the details of horizontal dimensions of the building, thickness
   {
     title:
       "Different types of Buildings",
-    url: "/assets/building.jpeg",
+    url: "/assets/building.png",
     blog: <>  <b>Different types of buildings</b> 
      <br/>
      The different types of building classified as per National Building Code of India are:
@@ -230,69 +230,137 @@ Floor plan gives the details of horizontal dimensions of the building, thickness
      <br/>
      1.  Residential Buildings
      <br/>
-2. Educational Buildings
-<br/>
-3. Institutional Buildings
-<br/>
-4. Assembly Buildings
-<br/>
-5. Business Buildings
-<br/>
-6. Mercantile Buildings
-<br/>
-7. Industrial Buildings
-<br/>
-8. Storage Buildings
-<br/>
-9. Hazardous Building
-<br/>
-<br/>
-<b>Residential Buildings</b> 
-<br/>
-These buildings have sleeping accommodation provided to people for residential puposes.These buildings may or may not have cooking facilities. The examples of residential buildings are Bungalows,Appartments,Hostels etc.
-<br/>
-For example: Bungalows, Private houses, Apartments, Hostels, Hotels, Cottages, and Villas etc.
-<br/>
-<br/>
-<b>Educational Buildings</b> 
-<br/>
-The buildings that are used to run educational services are called as educational buildings. Example: School, Colleges, Universities and coaching institutes. 
-<br/>
-<br/>
-<b>Institutional Buildings</b>
-<br/>
-These building are used for purposes such as medical or other treatment or care for the persons suffering from physical or mental illness, disease or debility. These type of buildings include hospitals
-<br/>
-<br/>
-<b>Assembly Buildings</b>
-<br/>
-The buildings in which people gather together for worship,entertainment,social,travel or some other purposes. These types of buildings include assembly hall,museum,gymnasium,stadiums,cinema halls etc.
-<br/>
-<br/>
-<b>Business Buildings</b>
-<br/>
-The building used for business activities are grouped under business buildings. The main function of these buildings is public business and transactions. Examples:Offices,Clinics,Laboratory,banks etc
-<br/>
-<br/>
-<b>Mercantile Buildings</b>
-<br/>
-These buildings are used for the display and sale of goods either wholesale or retail such as shops, shopping centers etc
-<br/>
-<br/>
-<b>Industrial Buildings</b>
-<br/>
-The buildings where any product is assembled, manufactured or fabricated are grouped under industrial buildings.Example:Cement plants, power plants, paper mill etc
-<br/>
-<br/>
-<b>Storage Buildings</b>
-<br/>
-These buildings are primarily used for storage of goods. For example, warehouses, cold storage, freight depots, transit sheds,etc.
-<br/>
-<br/>
-<b>Hazardous Buildings</b>
-<br/>
-These buildings which are used for the storage, handling, manufacture, or processing of highly combustible or explosive materials or products, which are harmful to living health Hazards may be due to accidental fire, fumes or gases, explosion etc
-<br/>
-<br/> </>,
+     2. Educational Buildings
+     <br/>
+     3. Institutional Buildings
+     <br/>
+     4. Assembly Buildings
+     <br/>
+     5. Business Buildings
+     <br/>
+     6. Mercantile Buildings
+     <br/>
+     7. Industrial Buildings
+     <br/>
+     8. Storage Buildings
+     <br/>
+     9. Hazardous Building
+     <br/>
+     <br/>
+     <b>Residential Buildings</b> 
+     <br/>
+     These buildings have sleeping accommodation provided to people for residential puposes.These buildings may or may not have cooking facilities. The examples of residential buildings are Bungalows,Appartments,Hostels etc.
+     <br/>
+     For example: Bungalows, Private houses, Apartments, Hostels, Hotels, Cottages, and Villas etc.
+     <br/>
+     <br/>
+     <b>Educational Buildings</b> 
+     <br/>
+     The buildings that are used to run educational services are called as educational buildings. Example: School, Colleges, Universities and coaching institutes. 
+     <br/>
+     <br/>
+     <b>Institutional Buildings</b>
+     <br/>
+     These building are used for purposes such as medical or other treatment or care for the persons suffering from physical or mental illness, disease or debility. These type of buildings include hospitals
+     <br/>
+     <br/>
+     <b>Assembly Buildings</b>
+     <br/>
+     The buildings in which people gather together for worship,entertainment,social,travel or some other purposes. These types of buildings include assembly hall,museum,gymnasium,stadiums,cinema halls etc.
+     <br/>
+     <br/>
+     <b>Business Buildings</b>
+     <br/>
+     The building used for business activities are grouped under business buildings. The main function of these buildings is public business and transactions. Examples:Offices,Clinics,Laboratory,banks etc
+     <br/>
+     <br/>
+     <b>Mercantile Buildings</b>
+     <br/>
+     These buildings are used for the display and sale of goods either wholesale or retail such as shops, shopping centers etc
+     <br/>
+     <br/>
+     <b>Industrial Buildings</b>
+     <br/>
+     The buildings where any product is assembled, manufactured or fabricated are grouped under industrial buildings.Example:Cement plants, power plants, paper mill etc
+     <br/>
+     <br/>
+     <b>Storage Buildings</b>
+     <br/>
+     These buildings are primarily used for storage of goods. For example, warehouses, cold storage, freight depots, transit sheds,etc.
+     <br/>
+     <br/>
+     <b>Hazardous Buildings</b>
+     <br/>
+     These buildings which are used for the storage, handling, manufacture, or processing of highly combustible or explosive materials or products, which are harmful to living health Hazards may be due to accidental fire, fumes or gases, explosion etc
+     <br/>
+     <br/> </>,
+  },
+  {
+    title:
+      "Quality of Different kinds of Bricks",
+    url: "/assets/Bricks.jpeg",
+    blog: <>  <b>Quality of Different kinds of Bricks</b> 
+     <br/>
+     <br/>
+     <b>First Class Bricks</b> 
+  <br/>
+    	These are thoroughly burnt and are of deep red, cherry or copper color.
+    <br/>
+    	The surface should be smooth and rectangular, with parallel, sharp and straight edges and square corners.
+    <br/>
+    <img style={{display: "block",
+    marginLeft: "auto",
+    marginRight: "auto"}} src="/assets/02_Project.png" />
+    <br/>
+    	These should be free from flaws, cracks and stones.
+    <br/>
+    	These should have uniform texture.
+    <br/>
+    	No impression should be left on the brick when a scratch is made by a finger nail.
+    <br/>
+    	The fractured surface of the brick should not show lumps of lime.
+    <br/>
+    	A metallic or ringing sound should come when two bricks are struck against each other.
+    <br/>
+    	Water absorption should be 12-15% of its dry weight when immersed in cold water for 24 hours. 
+    <br/>
+    	The crushing strength of the brick should not be less than 10 N/mm2. This limit varies with different Government organizations around the country.
+    <br/>
+    	Uses: First class bricks are recommended for pointing, exposed face work in masonry structures, flooring and reinforced brick work.
+    <br/>
+    <br/>
+     <b>Second Class Bricks</b> 
+     <br/>
+     Second Class Bricks are supposed to have the same requirements as the first class ones except that
+
+     	Small cracks and distortions are permitted.
+     <br/>
+     	A little higher water absorption of about 16-20% of its dry weight is allowed.
+     <br/>
+     	The crushing strength should not be less than 7.0 N/mm2.
+     <br/>
+     	Uses: Second class bricks are recommended for all important or unimportant hidden masonry works and centering of reinforced brick and reinforced cement concrete (RCC) structures
+     <br/>
+     <br/>
+     <b>Third Class Bricks</b> 
+     <br/>
+     	Third Class Bricks are under burnt. 
+     <br/>
+     	They are soft and light-colored producing a dull sound when struck against each other.
+     <br/>
+     	Water absorption is about 25 per cent of dry weight.
+     <br/>
+     	Uses: It is used for building temporary structures. 
+     <br/>
+     <br/>
+     <b>Fourth Class Bricks</b>
+     <br/>
+     	Fourth Class Bricks are over burnt and badly distorted in shape and size and are brittle in nature.
+     <br/>
+     	Uses: The ballast of such bricks is used for foundation and floors in lime concrete and road metal.
+     <br/>
+     <br/>
+     <br/>
+      </>,
   },
 ];

@@ -32,11 +32,11 @@ export default function Project() {
           {projectData && projectData.name}
         </div>
         <FeatureCards
-          sm="G + 2"
-          rm="3200"
-          ce="50"
-          pt="10"
-          ba="4.6"
+          sm={projectData && projectData.floor}
+          rm={projectData && projectData.area}
+          ce={projectData && projectData.cost}
+          pt={projectData && projectData.months}
+          ba={projectData && projectData.rating}
           text="text"
         />
       </Col>
@@ -53,42 +53,7 @@ export default function Project() {
       </Col>
       <Col span={18}>
         <div className={style.container1text1}>Photo Gallery</div>
-        <ImageGallery />
-      </Col>
-      <Col span={18}>
-        <AboutContractor
-          name={projectData && projectData.name}
-          about={projectData && projectData.about}
-          url={projectData && projectData.videourl}
-        />
-      </Col>
-      <Col span={18}>
-        <div className={style.container1text1}>
-          {projectData && projectData.name}
-        </div>
-        <FeatureCards
-          sm="G + 1"
-          rm="3350"
-          ce="50"
-          pt="12"
-          ba="4.9"
-          text="text"
-        />
-      </Col>
-      <Col span={18}>
-        <div className={style.container2text1}>
-          Contractor -{" "}
-          <span className={style.container2text2}>
-            {projectData && projectData.contractorName}
-          </span>
-        </div>
-        <div className={style.container2text3}>
-          {projectData && projectData.constructorData}
-        </div>
-      </Col>
-      <Col span={18}>
-        <div className={style.container1text1}>Photo Gallery</div>
-        <ImageGallery />
+        <ImageGallery images={projectData && projectData.photoGallery} />
       </Col>
       <Col span={18}>
         <AboutContractor
