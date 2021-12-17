@@ -32,11 +32,11 @@ export default function Project() {
           {projectData && projectData.name}
         </div>
         <FeatureCards
-          sm="G + 1"
-          rm="3,246"
-          ce="47.32"
-          pt="9.5"
-          ba="4.5"
+          sm={projectData && projectData.floor}
+          rm={projectData && projectData.area}
+          ce={projectData && projectData.cost}
+          pt={projectData && projectData.months}
+          ba={projectData && projectData.rating}
           text="text"
         />
       </Col>
@@ -53,7 +53,7 @@ export default function Project() {
       </Col>
       <Col span={18}>
         <div className={style.container1text1}>Photo Gallery</div>
-        <ImageGallery />
+        <ImageGallery images={projectData && projectData.photoGallery} />
       </Col>
       <Col span={18}>
         <AboutContractor

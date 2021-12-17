@@ -60,7 +60,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/14project.png"
-              id={7}
+              id={5}
               name="Mr. Wadhvani Residence"
               add="Bengali Square,Indore"
               area="1750 Sqft"
@@ -71,7 +71,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/15project.png"
-              id={8}
+              id={6}
               name="Akshat Apartmen"
               add="Ashoka Garden,Bhopal"
               area="12,160 Sqft"
@@ -82,7 +82,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/01project.png"
-              id={9}
+              id={7}
               name="Mr. Mahesh Sahu"
               add="Lalghati, Bhopal"
               area="3,550 Sqft"
@@ -93,7 +93,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/Praveen.png"
-              id={10}
+              id={8}
               name="Mr. Praveen Villa"
               add="RK Puram,Prayagraj"
               area="2850 Sqft"
@@ -104,7 +104,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/Geeta.png"
-              id={11}
+              id={9}
               name="Mrs Geeta Residence"
               add="Lalghati,Bhopal"
               area="3,554 Sqft"
@@ -115,7 +115,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/11project.png"
-              id={12}
+              id={10}
               name="Mr. Akshat Kanasal"
               add="Bhawarkua,Indore"
               area="2505 Sqft"
@@ -126,7 +126,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/04project.png"
-              id={13}
+              id={11}
               name="Mr & Mrs Sahu Residence"
               add="Nayapura,Bhopal"
               area="2700 Sqft"
@@ -137,7 +137,7 @@ const ProjectTab = () => (
           <Col sm={12} md={8} lg={8} xl={6} xxl={6}>
             <ProjectCard
               src="/assets/03project.png"
-              id={14}
+              id={12}
               name="Grace Garden Housing"
               add="BHEL,Bhopal"
               area="1200 Sqft"

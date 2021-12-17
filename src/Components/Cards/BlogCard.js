@@ -20,8 +20,8 @@ export default function Blogs({ id, src, text, desc, seen, like, time }) {
         borderRadius: "16px",
       }}
       className="blogCard"
-      style={{ borderRadius: "16px" }}
-      cover={<img alt="example" src={src} />}
+      style={{ borderRadius: "16px", height: "max-content" }}
+      cover={<img style={{height: "20rem"}} alt="example" src={src} />}
       actions={[
         <div>
           <EyeOutlined />
