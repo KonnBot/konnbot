@@ -72,45 +72,45 @@ export default function Project() {
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
               id="1"
-              src="/assets/05project.png"
-              name="Mr. Mahesh Sahu"
-              add="Lalghati, Bhopal"
-              area="3550 Sqft"
+              src="/assets/12project.png"
+              name="Mr. Rajesh Yadav"
+              add="Pardesipura,Indore"
+              area="3152 Sqft"
               floor="G + 2"
-              cost="57.6 Lakh"
+              cost="54.5 Lakh"
             />
           </Col>
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
               id="2"
-              src="/assets/07project.png"
-              name="Grace Garden Housing"
-              add="BHEL, Bhopal"
-              area="1200 Sqft"
-              floor="G"
-              cost="32.8 Lakh"
+              src="/assets/13project.png"
+              name="Mr. Vinay Pingle Residence"
+              add="Andanva,Prayagraj"
+              area="3023 Sqft"
+              floor="G+1"
+              cost="52.3 Lakh"
             />
           </Col>
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
               id="3"
               src="/assets/04project.png"
-              name="Mr & Mrs Sahu"
-              add="Nayapura, Bhopal"
-              area="1200 Sqft"
-              floor="G"
-              cost="32.8 Lakh"
+              name="Priyansh Joshi's House"
+              add="Naini,Prayagraj"
+              area="2854 Sqft"
+              floor="G+1"
+              cost="65.4 Lakh"
             />
           </Col>
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
               id="4"
               src="/assets/09project.png"
-              name="Mr. Geeta Residence"
-              add="Lords Colony, Lalghati, Bhopal"
-              area="35504 Sqft"
+              name="Mr. Rajesh Sahu"
+              add="Lalghati, Bhopal"
+              area="3794 Sqft"
               floor="G + 2"
-              cost="54.1 Lakh"
+              cost="54.28 Lakh"
             />
           </Col>
         </Row>
