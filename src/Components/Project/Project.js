@@ -71,7 +71,7 @@ export default function Project() {
         >
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
-              id="1"
+              id={1}
               src="/assets/12project.png"
               name="Mr. Rajesh Yadav"
               add="Pardesipura,Indore"
@@ -82,7 +82,7 @@ export default function Project() {
           </Col>
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
-              id="2"
+              id={2}
               src="/assets/13project.png"
               name="Mr. Vinay Pingle Residence"
               add="Andanva,Prayagraj"
@@ -93,8 +93,8 @@ export default function Project() {
           </Col>
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
-              id="3"
-              src="/assets/04project.png"
+              id={3}
+              src="/assets/priyansh5.png"
               name="Priyansh Joshi's House"
               add="Naini,Prayagraj"
               area="2854 Sqft"
@@ -104,8 +104,8 @@ export default function Project() {
           </Col>
           <Col span={6} xs={24} sm={12} md={8} lg={6}>
             <ProjectCard
-              id="4"
-              src="/assets/09project.png"
+              id={4}
+              src="/assets/Aashu.png"
               name="Mr. Rajesh Sahu"
               add="Lalghati, Bhopal"
               area="3794 Sqft"
