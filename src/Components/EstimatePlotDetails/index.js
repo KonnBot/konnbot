@@ -153,6 +153,23 @@ const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
     TOAcP6 = OAcP6 + BAcP6;
     SBrP6 = TOAcP6 / TotalArea;
 
+    const findINRNumber = (value) => {
+      const res =
+        value.toString().split(".")[0].length > 3
+          ? value
+              .toString()
+              .substring(0, value.toString().split(".")[0].length - 3)
+              .replace(/\B(?=(\d{2})+(?!\d))/g, ",") +
+            "," +
+            value
+              .toFixed(0)
+              .toString()
+              .substring(value.toString().split(".")[0].length - 3)
+          : value.toFixed(0).toString();
+
+      return res;
+    };
+
     const payload = {
       totalOpenArea: totalOpenArea.toFixed(2),
       totalBuiltArea: totalBuiltArea.toFixed(2),
@@ -161,9 +178,7 @@ const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
         superRate: SBrP1.toFixed(2),
         openRate: OArP1.toFixed(2),
         builtRate: BArP1.toFixed(2),
-        totalCost: TOAcP1.toFixed(2)
-          .toString()
-          .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","),
+        totalCost: findINRNumber(TOAcP1),
       },
       package2: {
         superRate: SBrP2.toFixed(2),
@@ -172,41 +187,31 @@ const EstimatorPlotDetails = ({ calcData, setCalcData }) => {
         openCost: OAcP2.toFixed(2)
           .toString()
           .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","),
-        totalCost: TOAcP2.toFixed(2)
-          .toString()
-          .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","),
+        totalCost: findINRNumber(TOAcP2),
       },
       package3: {
         superRate: SBrP3.toFixed(2),
         openRate: OArP3.toFixed(2),
         builtRate: BArP3.toFixed(2),
-        totalCost: TOAcP3.toFixed(2)
-          .toString()
-          .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","),
+        totalCost: findINRNumber(TOAcP3),
       },
       package4: {
         superRate: SBrP4.toFixed(2),
         openRate: OArP4.toFixed(2),
         builtRate: BArP4.toFixed(2),
-        totalCost: TOAcP4.toFixed(2)
-          .toString()
-          .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","),
+        totalCost: findINRNumber(TOAcP4),
       },
       package5: {
         superRate: SBrP5.toFixed(2),
         openRate: OArP5.toFixed(2),
         builtRate: BArP5.toFixed(2),
-        totalCost: TOAcP5.toFixed(2)
-          .toString()
-          .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","),
+        totalCost: findINRNumber(TOAcP5),
       },
       package6: {
         superRate: SBrP6.toFixed(2),
         openRate: OArP6.toFixed(2),
         builtRate: BArP6.toFixed(2),
-        totalCost: TOAcP6.toFixed(2)
-          .toString()
-          .replace(/\B(?<!\.\d*)(?=(\d{3})+(?!\d))/g, ","),
+        totalCost: findINRNumber(TOAcP6),
       },
     };
     console.log("payload", payload);
