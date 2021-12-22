@@ -5,7 +5,7 @@ export const Projects = [
     area: "3152",
     floor: "G + 2",
     cost: "54.5 Laks",
-    url: "/assets/01_Project.png",
+    url: "/assets/rajesh4.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
@@ -13,9 +13,9 @@ export const Projects = [
     about: ``,
     videourl: "",
     photoGallery: [
-      "/assets/02_Project.png",
-      "/assets/02_Project.png",
-      "/assets/02_Project.png"
+      "/assets/rajesh1.png",
+      "/assets/rajesh2.png",
+      "/assets/rajesh3.png"
     ]
   },
   {
@@ -24,13 +24,18 @@ export const Projects = [
     area: "3023",
     floor: "G + 1",
     cost: "52.3 Laks",
-    url: "/assets/01_Project.png",
+    url: "/assets/vinay1.png",
     months: "7.5",
     rating: "4.8",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "",
+    photoGallery: [
+      "/assets/vinay1.png",
+      "/assets/vinay2.png",
+      "/assets/vinay3.png"
+    ]
   },
   {
     name: "Mr. Priyansh Joshi's",
@@ -38,13 +43,18 @@ export const Projects = [
     area: "2854",
     floor: "G + 1",
     cost: "65.4 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/priyansh4.png",
     months: "7.5",
     rating: "4.6",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "",
+    photoGallery: [
+      "/assets/priyansh1.png",
+      "/assets/priyansh2.png",
+      "/assets/priyansh3.png"
+    ]
   },
   {
     name: "Mr. Rajesh Sahu",
@@ -52,7 +62,7 @@ export const Projects = [
     area: "3794",
     floor: "G + 2",
     cost: "54.28 Lakhs",
-    url: "/assets/Aashu.png",
+    url: "/assets/aashu1.png",
     months: "11",
     rating: "4.6",
     contractorName: "KONNBOT Team",
@@ -66,13 +76,18 @@ export const Projects = [
     area: "1750",
     floor: "G + 1",
     cost: "28.9 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/wadhwani4.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "",
+    photoGallery: [
+      "/assets/wadhwani1.png",
+      "/assets/wadhwani2.png",
+      "/assets/wadhwani3.png"
+    ]
   },
   {
     name: "Akshat Apartment",
@@ -94,7 +109,7 @@ export const Projects = [
     area: "3550",
     floor: "G + 2",
     cost: "57.6 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/mahesh1.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
@@ -122,13 +137,16 @@ export const Projects = [
     area: "3554",
     floor: "G + 2",
     cost: "54.10 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/geeta4.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "",
+    photoGallery: [
+      "/assets/geeta1.png",
+    ]
   },
   {
     name: "Mr. Akshat Kanasal",
@@ -150,7 +168,7 @@ export const Projects = [
     area: "2700",
     floor: "G + 2",
     cost: "40.10 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/sahu1.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
