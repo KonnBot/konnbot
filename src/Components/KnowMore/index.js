@@ -13,7 +13,7 @@ export default function index() {
               Benefits of being with us
             </div>
             <div className={style.container1text2}>
-              Estimate your budget with the accurate need for your construction
+              Estimate your budget with the accurate need of your construction
               project
             </div>
           </div>
@@ -22,7 +22,7 @@ export default function index() {
       <Col span={18}>
         <div className={style.container3}>
           <div className={style.container3text1}>
-            you will get the advanced <br /> services
+            You will get the advanced <br /> services
             <span className={style.titleImg}>
               <img alt="title" src="/assets/Title.png" />
             </span>
@@ -36,7 +36,7 @@ export default function index() {
         <KnowMoreCard
           src="/assets/knowmore01.png"
           flex="row-reverse"
-          title="256 + Quality checks"
+          title="256+ Quality checks"
           text="We promise you the best quality construction services. It ensure that the you always get the best quality material and workmanship under your budget. To ensure that we have more than 256 quality checks specially designed by experts of industry. It starts from soil test to delivery of finishes of your home before handing over to you. We have the RCC tests, Bar tests, Spirit level checked flooring etc. We will hand over the detailed report of projects to you when the project gets completed."
         />
       </Col>
@@ -86,7 +86,7 @@ export default function index() {
           src="/assets/knowmore07.png"
           flex="row-reverse"
           title="Budget in 5 Min."
-          text="Quality control and safety represent increasingly important concerns for project managers. Defects or failures in constructed facilities can result in very large costs. Even with minor defects, re-construction may be required and facility operations impaired. Increased costs and delays are the result. In the worst case, failures may cause personal injuries or fatalities. Accidents during the construction process can similarly result in personal injuries and large costs. Indirect costs of insurance, inspection and regulation are increasing rapidly due to these increased direct costs. Good project managers try to ensure that the job is done right the first time and that no major accidents occur on the project."
+          text="We have inbuilt software which can calculate the exact as per the requirement which is customize budget in not more than 5 mins. "
         />
       </Col>
       <Col span={18}>
@@ -94,7 +94,7 @@ export default function index() {
           src="/assets/knowmore08.png"
           flex="row"
           title="Easy Payment   "
-          text="Quality control and safety represent increasingly important concerns for project managers. Defects or failures in constructed facilities can result in very large costs. Even with minor defects, re-construction may be required and facility operations impaired. Increased costs and delays are the result. In the worst case, failures may cause personal injuries or fatalities. Accidents during the construction process can similarly result in personal injuries and large costs. Indirect costs of insurance, inspection and regulation are increasing rapidly due to these increased direct costs. Good project managers try to ensure that the job is done right the first time and that no major accidents occur on the project."
+          text="We follow escrow model where you have to pay us and when the construction is over by the contractor & inspected by the quality manager & approved by the project manager it is given to respective person. Until then it is safe with us. "
         />
       </Col>
       <Col span={18}>

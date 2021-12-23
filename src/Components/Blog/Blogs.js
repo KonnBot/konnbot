@@ -250,6 +250,11 @@ export const Blogs = [
         also the details of locating the furniture in the room.
         <br />
         <br />
+        <img
+          style={{ display: "block", marginLeft: "auto", marginRight: "auto" }}
+          src="/assets/archi.png"
+          />
+          <br />
         <b>i)Site Plan</b>
         <br />
         A site plan shows property boundaries and means of access to the site,
@@ -507,10 +512,6 @@ export const Blogs = [
          The surface should be smooth and rectangular, with parallel, sharp and
         straight edges and square corners.
         <br />
-        <img
-          style={{ display: "block", marginLeft: "auto", marginRight: "auto" }}
-          src="/assets/02_Project.png"
-        />
         <br />
          These should be free from flaws, cracks and stones.
         <br />

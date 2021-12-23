@@ -407,7 +407,7 @@ const Home = () => {
               </Col>
               <Col span={8} xs={24} sm={24} md={12} lg={8}>
                 <BlogCard
-                  id={2}
+                  id={3}
                   src="/assets/Carpet.jpg"
                   text="Carpet area,Built up area and Super built up Area"
                   desc="Carpet area is the distance between inner walls of your home. Carpet area is the actual usable area inside your home. Carpet area is around 75-80% of total built up area"
@@ -418,7 +418,7 @@ const Home = () => {
               </Col>
               <Col span={8} xs={24} sm={24} md={12} lg={8}>
                 <BlogCard
-                  id={3}
+                  id={2}
                   src="/assets/FAR.jpg"
                   text="Floor Area Ratio and Floor Space Index"
                   desc="Floor area ratio is the ratio of a building's total floor area to the size of land upon which it is built. Every city has a limited space so FAR is used as regulations in building planning along with the building-to-land ratio"

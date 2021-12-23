@@ -39,13 +39,12 @@ const index = () => {
           <Step
             className="aboutSteps"
             title="Started"
-            description="It’s all being in COVID-19 Pandemic that we started as Architecture Consultancy in Bhopal, Prayagraj. In the starting we are getting architectural projects but the problem become is as usual the miscommunication and we can’t be there every-time to explain the contractor & labor to do what. No updates of what is going on, calling us whenever they want. It happens with all the 6 projects which are going on, either you accept what is going on or you want to implement with the best techniques and coordinate in the best manner, where project don’t get delays due to unnecessary issues & mismanagement. Conclude to stop architecture consultancy which doesn’t allow us to practice the manner we want."
+            description="The reason due to which we started KONNBOT is the inconvinence created due to miscommunication between the construction team & client which increases the project cost & duration & decrease the quality of workmanship. Client can’t be there every-time to solve the issues. No updates of what is going on to client, calling whenever they want. It happens with all the projects which are going on, either you accept it or to implement and coordinate in the best manner, where project don’t get delayed due to unnecessary issues & mismanagement. Conclude to form KONNBOT as an organization which enhance the client experience."
           />
           <Step
             className="aboutSteps"
             title="Why we need software in Construction"
-            description="Personally, I want to pursue construction management from HFT Stuttgart (IPM) after getting selected waiting for winter semester, sitting at home thinking to see what the future in management & other parameters. All the major projects & KPGM reports, saying that we need tech enabled process to create better system for betterment of Construction management. 
-            Concluding to start the making software for lower scale of projects in India for the clients who has the dream to build the home in life, but the system through which they have to go through is very tensive experience due to which they have to stop and buying the flat, where again the builders flat do not satisfy them.
+            description=" In all the large scale projects, the management define the contruction cost & time, whereas client sit and see the reports, updates & Invoices, Material & Workmanship. In the similar way why we can't implement in the smaller scale projects, which concludes to start the make software for clients. Dream for everyone, so why not to let them exprience the dream in the best possible way.
             "
           />
           <Step
@@ -61,9 +60,7 @@ const index = () => {
           <Step
             className="aboutSteps"
             title="A lot to come "
-            description="Project Management Software for large scale projects is on development stage
-
-            "
+            description="Project Management Software for large scale projects is on development stage"
           />
         </Steps>
       </Col>

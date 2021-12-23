@@ -62,13 +62,18 @@ export const Projects = [
     area: "3794",
     floor: "G + 2",
     cost: "54.28 Lakhs",
-    url: "/assets/aashu1.png",
+    url: "/assets/aashu4.png",
     months: "11",
     rating: "4.6",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "https://www.youtube.com/embed/lg7bE3lPVG0",
+    photoGallery: [
+      "/assets/aashu5.png",
+      "/assets/aashu2.png",
+      "/assets/aashu3.png"
+    ]
   },
   {
     name: "Mr. Wadhvani Residence",
@@ -95,13 +100,17 @@ export const Projects = [
     area: "12160",
     floor: "G + 4",
     cost: "158.42 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/akshat1.png",
     months: "14",
     rating: "4.5",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "",
+    photoGallery: [
+      "/assets/akshat2.png",
+      "/assets/akshat3.png"
+    ]
   },
   {
     name: "Mr. Mahesh Sahu",
@@ -118,18 +127,23 @@ export const Projects = [
     videourl: "",
   },
   {
-    name: "Mr. Praveen Villa",
+    name: "Mr. Prashant Villa",
     add: "RK Puram,Prayagraj",
     area: "2850",
     floor: "G + 1",
     cost: "48.6 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/prashant1.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "",
+    photoGallery: [
+      "/assets/prashant2.png",
+      "/assets/prashant3.png",
+      "/assets/prashant4.png"
+    ]
   },
   {
     name: "Mrs Geeta Residence",
@@ -154,13 +168,17 @@ export const Projects = [
     area: "2505",
     floor: "G + 1",
     cost: "48.6 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/a1.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
     constructorData: `    `,
     about: ``,
     videourl: "",
+    photoGallery: [
+      "/assets/a2.png",
+      "/assets/a3.png"
+    ]
   },
   {
     name: "Mr & Mrs Sahu Residence",
@@ -182,7 +200,7 @@ export const Projects = [
     area: "1200",
     floor: "G + 1",
     cost: "66.20 Lakhs",
-    url: "/assets/01_Project.png",
+    url: "/assets/gg1.png",
     months: "9.5",
     rating: "4.5",
     contractorName: "KONNBOT Team",
